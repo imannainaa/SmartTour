@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SmartTour - Producer</title>
+    <style>
+        body {
+            background-image: url('home.jpeg'); /* Replace with your image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* Align content at the top of the screen */
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            width: 530px; /* Set the width to a fixed value */
+            height: 700px; /* Set the height to make it square */
+        }
+
+        h1 {
+            font-size: 28px;
+            color: #333;
+            margin-top: 5px;
+        }
+
+        p {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-size: 17px;
+            margin-bottom: 5px;
+            margin-top: 5px;
+            color: #333;
+            text-align: left;
+        }
+
+        .input-group{
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        select {
+            width: 80%;
+            padding: 6px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        select {
+            background-color: #fff;
+            width: 80%;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 13px;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 20px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 20px;
+}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>SmartTour - Producer</h1>
+        <p>Please provide information about a place:</p>
+        <form action="http://localhost:5000/producer" method="POST">
+            <div>
+                <div class="col-25">
+                    <label for="country">Country:</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="country" name="country" required>
+                </div>
+                <div class="col-25">
+                    <label for="placeName">Place Name:</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="placeName" name="placeName" required>
+                </div>
+                <div class="col-25">
+                    <label for="category">Category:</label>
+                </div>
+            
+                <div class="col-75">
+                    <select id="category" name="category">
+                        <option value="Shopping">Shopping</option>
+                        <option value="Culture">Culture</option>
+                        <option value="Nature">Nature</option>
+                        <option value="Amusement Park">Amusement Park</option>
+                    </select>
+                </div>
+                <div class="col-25">
+                    <label for="city">City:</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="city" name="city" required>
+                </div>
+                <div class="col-25">
+                    <label for="priceMYR">Price:</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="priceMYR" name="priceMYR" required>
+                </div>
+                <div class="col-25">
+                    <label for="rating">Rating:</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="rating" name="rating" step="1" required>
+                </div>
+                <div class="col-25">
+                    <label for="latitude">Latitude:</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="latitude" name="latitude" step="0.0001" required>
+                </div>
+                <div class="col-25">
+                    <label for="longitude">Longitude:</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="longitude" name="longitude" step="0.0001" required>
+                </div>
+
+            <br>
+            <button type="submit">Submit</button>
+            </div>
+            
+        </form>
+    </div>
+</body>
+
+</html>

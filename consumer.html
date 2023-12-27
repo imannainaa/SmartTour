@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SmartTour: Intelligent Tour Itinerary Recommendation System</title>
+    <style>
+        body {
+            background-image: url('home.jpeg'); /* Replace with your image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* Align content at the top of the screen */
+            align-items: center;
+            height: 100vh;
+        }
+    
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin: 10px 0; /* Adjust top margin */
+        }
+    
+        .container {
+            background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background */
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 400px; /* Set the width to a fixed value */
+            height: 560px; /* Set the height to make it square */
+        }
+    
+        label {
+            display: block;
+            font-size: 18px;
+            margin-bottom: 5px;
+            margin-top: 5px;
+            color: #333;
+        }
+    
+        select,
+        input[type="checkbox"] ,
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-top: 0px;
+            background-color: #f9f9f9;
+            display: inline-block;
+        }
+    
+        .checkbox-group {
+            text-align: left;
+        }
+
+        .checkbox-group input[type="checkbox"] {
+            display: inline-block; /* Display checkboxes inline */
+            margin-right: 10px; /* Add spacing between checkboxes and labels */
+        }
+    
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+    
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <h1>SmartTour: Intelligent Tour Itinerary Recommendation System</h1>
+    <div class="container">
+            <form action="http://localhost:5000/consumer" method="post">
+                <label for="country">Choose a country:</label>
+                <select id="country" name="country">
+                    <option value="" selected disabled>Select a country</option>
+                </select>
+
+                <label for="cities">Select city:</label>
+                <select id="cities" name="cities">
+                    <option value="" selected disabled>Please select country first</option>
+                </select>
+                <label for="budget">Select your budget range:</label>
+                <select id="budget" name="budget">
+                    <option value="1">RM 0 - RM 500</option>
+                    <option value="2">RM 501 - RM 1000</option>
+                    <option value="3">RM 1001 - RM 2000</option>
+                    <option value="4">RM 2001 - RM 3000</option>
+                    <option value="5">RM 3001 - Infinity</option>
+                </select>
+                <p class="checkbox-group">Pick Interests:</p>
+                <p>
+                    <input type="checkbox" id="interest1" name="interest" value="1">
+                    <label for="interest1"> Shopping</label><br>
+                    <input type="checkbox" id="interest2" name="interest" value="2">
+                    <label for="interest2"> Nature</label><br>
+                    <input type="checkbox" id="interest3" name="interest" value="3">
+                    <label for="interest3"> Culture</label><br>
+                    <input type="checkbox" id="interest4" name="interest" value="4">
+                    <label for="interest4"> Amusement Park</label>
+                </p>
+                <p><input type="submit" value="Submit" /></p>
+            </form>
+    </div>
+
+    <script>
+        var subjectObject = {
+            "Malaysia": ["Johor", "Perak", "Terengganu", "Selangor", "Pahang", "Sabah", "Sarawak"],
+            "Indonesia": ["Jakarta", "Bandung", "Semarang", "Surabaya", "Yogyakarta"],
+            "Singapore": ["Jurong East", "Marina Bay", "Sentosa"],
+            "Brunei": ["Tutong", "Temburong", "Bandar Seri Begawan"]
+        };
+
+
+        window.onload = function() {
+            var countrySel = document.getElementById("country");
+            var citySel = document.getElementById("cities");
+
+            // Populate the country dropdown
+            for (var country of Object.keys(subjectObject)) {
+                countrySel.options[countrySel.options.length] = new Option(country, country);
+            }
+
+            // Set an event listener for the country dropdown
+            countrySel.onchange = function() {
+                citySel.length = 1; // Clear the city dropdown
+                if (this.value === "") return; // No country selected
+
+                // Populate the city dropdown based on the selected country
+                for (var city of subjectObject[this.value]) {
+                    citySel.options[citySel.options.length] = new Option(city, city);
+                }
+            };
+        };
+    </script>
+
+</body>
+
+</html>

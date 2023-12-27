@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SmartTour</title>
+    <style>
+        body {
+        font-family: Arial, sans-serif;
+        background-image: url('home1.jpeg'); /* Replace 'background.jpg' with the actual image file name and path */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+    }
+
+        .container {
+            text-align: center;
+            margin-top: 140px;
+            margin-left: 900px;
+        }
+
+        h1 {
+            font-size: 40px;
+            color: #333;
+        }
+
+        p {
+            font-size: 20px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .choice {
+            display: inline-block;
+            margin: 20px;
+            background-color: #fff;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .choice:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            cursor: pointer;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to SmartTour</h1>
+        <p>Please select your role:</p>
+        <div class="choice">
+            <label for="consumer" class="tooltip">Im a traveller
+                <span class="tooltiptext">Travellers who seek itinerary recommendations for their trips.</span>
+            </label>
+            <input type="radio" id="consumer" name="role" value="consumer">
+        </div>
+        <div class="choice">
+            <label for="producer" class="tooltip">I have travelled
+                <span class="tooltiptext">Travellers who contribute travel recommendations based on their past experiences.</span>
+            </label>
+            <input type="radio" id="producer" name="role" value="producer">
+        </div>
+        <br>
+        <button onclick="selectRole()">Continue</button>
+    </div>
+
+    <script>
+        function selectRole() {
+            var role = document.querySelector('input[name="role"]:checked');
+            if (role) {
+                // Redirect to the appropriate page based on the selected role
+                if (role.value === "consumer") {
+                    window.location.href = "consumer.html";
+                } else if (role.value === "producer") {
+                    window.location.href = "producer.html";
+                }
+            } else {
+                alert("Please select a role before continuing.");
+            }
+        }
+    </script>
+</body>
+
+</html>

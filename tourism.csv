@@ -1,0 +1,939 @@
+Place_Name,Category,Country,City,Price,PriceMYR,Rating,Coordinate,Lat,Long
+Monumen Nasional,Culture,Indonesia,Jakarta,20000,6.2,4.6,"{'lat': -6.1753924, 'lng': 106.8271528}",-6.1753924,106.8271528
+Kota Tua,Culture,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.137644799999999, 'lng': 106.8171245}",-6.1376448,106.8171245
+Dunia Fantasi,Amusement Park,Indonesia,Jakarta,270000,83.7,4.6,"{'lat': -6.125312399999999, 'lng': 106.8335377}",-6.1253124,106.8335377
+Taman Mini Indonesia Indah (TMII),Amusement Park,Indonesia,Jakarta,10000,3.1,4.5,"{'lat': -6.302445899999999, 'lng': 106.8951559}",-6.3024459,106.8951559
+Atlantis Water Adventure,Amusement Park,Indonesia,Jakarta,94000,29.14,4.5,"{'lat': -6.12419, 'lng': 106.839134}",-6.12419,106.839134
+Taman Impian Jaya Ancol,Amusement Park,Indonesia,Jakarta,25000,7.75,4.5,"{'lat': -6.117333200000001, 'lng': 106.8579951}",-6.1173332,106.8579951
+Kebun Binatang Ragunan,Nature,Indonesia,Jakarta,4000,1.24,4.5,"{'lat': -6.3124593, 'lng': 106.8201865}",-6.3124593,106.8201865
+Ocean Ecopark,Amusement Park,Indonesia,Jakarta,180000,55.8,4,"{'lat': -6.125801699999999, 'lng': 106.8363249}",-6.1258017,106.8363249
+Pelabuhan Marina,Nature,Indonesia,Jakarta,175000,54.25,4.4,"{'lat': 1.07888, 'lng': 103.931398}",1.07888,103.931398
+Pulau Tidung,Nature,Indonesia,Jakarta,150000,46.5,4.5,"{'lat': -5.803205300000001, 'lng': 106.5237907}",-5.8032053,106.5237907
+Pulau Bidadari,Nature,Indonesia,Jakarta,5000,1.55,4.6,"{'lat': -6.035832999999999, 'lng': 106.746944}",-6.035833,106.746944
+Pulau Pari,Nature,Indonesia,Jakarta,150000,46.5,4,"{'lat': -5.9074328, 'lng': 106.5863989}",-5.9074328,106.5863989
+Pulau Pramuka,Nature,Indonesia,Jakarta,5000,1.55,4.2,"{'lat': -5.745962, 'lng': 106.6136577}",-5.745962,106.6136577
+Pulau Pelangi,Nature,Indonesia,Jakarta,900000,279,4.8,"{'lat': -5.587055, 'lng': 106.5885}",-5.587055,106.5885
+Pasar Seni,Shopping,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.1766868, 'lng': 106.8417666}",-6.1766868,106.8417666
+Jembatan Kota Intan,Culture,Indonesia,Jakarta,0,0,4.3,"{'lat': -6.1314572, 'lng': 106.8106169}",-6.1314572,106.8106169
+Museum Fatahillah,Culture,Indonesia,Jakarta,5000,1.55,4.4,"{'lat': -6.136448899999999, 'lng': 106.8130661}",-6.1364489,106.8130661
+Museum Bank Indonesia,Culture,Indonesia,Jakarta,2000,0.62,4.7,"{'lat': -6.137127, 'lng': 106.813005}",-6.137127,106.813005
+Kidzania,Amusement Park,Indonesia,Jakarta,185000,57.35,4.6,"{'lat': -6.225073499999999, 'lng': 106.8097144}",-6.2250735,106.8097144
+Museum Taman Prasasti,Culture,Indonesia,Jakarta,2000,0.62,4.5,"{'lat': -6.172224099999998, 'lng': 106.8189695}",-6.1722241,106.8189695
+Museum Wayang,Culture,Indonesia,Jakarta,5000,1.55,4.5,"{'lat': -6.1349072, 'lng': 106.8124452}",-6.1349072,106.8124452
+Museum Nasional,Culture,Indonesia,Jakarta,5000,1.55,4.6,"{'lat': -6.176402099999999, 'lng': 106.8215901}",-6.1764021,106.8215901
+Pasar Tanah Abang,Shopping,Indonesia,Jakarta,0,0,4,"{'lat': -6.189009599999999, 'lng': 106.8119312}",-6.1890096,106.8119312
+Pecinan Glodok,Shopping,Indonesia,Jakarta,0,0,4.3,"{'lat': -6.142758799999999, 'lng': 106.8140791}",-6.1427588,106.8140791
+Sea World,Amusement Park,Indonesia,Jakarta,115000,35.65,4.5,"{'lat': -6.126477500000001, 'lng': 106.842963}",-6.1264775,106.842963
+Wisata Agro Edukatif Istana Susu Cibugary,Amusement Park,Indonesia,Jakarta,35000,10.85,4.5,"{'lat': -6.3568093, 'lng': 106.9062371}",-6.3568093,106.9062371
+Wisata Kuliner Pecenongan,Shopping,Indonesia,Jakarta,0,0,5,"{'lat': -6.166788700000001, 'lng': 106.8265261}",-6.1667887,106.8265261
+Taman Menteng,Amusement Park,Indonesia,Jakarta,0,0,4.5,"{'lat': -6.1964087, 'lng': 106.8293106}",-6.1964087,106.8293106
+Wisata Alam Mangrove Angke,Nature,Indonesia,Jakarta,25000,7.75,4.3,"{'lat': -6.105334, 'lng': 106.735584}",-6.105334,106.735584
+Setu Babakan,Culture,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.341666699999999, 'lng': 106.8238889}",-6.3416667,106.8238889
+Taman Suropati,Amusement Park,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.1994034, 'lng': 106.8326228}",-6.1994034,106.8326228
+Pasar Taman Puring,Shopping,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.241368999999999, 'lng': 106.7890587}",-6.241369,106.7890587
+Grand Indonesia Mall,Shopping,Indonesia,Jakarta,0,0,4.7,"{'lat': -6.195180099999999, 'lng': 106.8204412}",-6.1951801,106.8204412
+Skyrink - Mall Taman Anggrek,Amusement Park,Indonesia,Jakarta,110000,34.1,4.5,"{'lat': -6.178996, 'lng': 106.791941}",-6.178996,106.791941
+Bumi Perkemahan Cibubur,Amusement Park,Indonesia,Jakarta,10000,3.1,4.5,"{'lat': -6.360248700000001, 'lng': 106.893842}",-6.3602487,106.893842
+Istana Negara Republik Indonesia,Culture,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.168069000000001, 'lng': 106.8239727}",-6.168069,106.8239727
+Museum Macan (Modern and Contemporary Art in Nusantara),Culture,Indonesia,Jakarta,100000,31,4.5,"{'lat': -6.190942, 'lng': 106.767622}",-6.190942,106.767622
+Galeri Nasional Indonesia,Culture,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.178548200000001, 'lng': 106.8327716}",-6.1785482,106.8327716
+Museum Bahari Jakarta,Culture,Indonesia,Jakarta,2000,0.62,4.4,"{'lat': -6.1269553, 'lng': 106.8085899}",-6.1269553,106.8085899
+Museum Seni Rupa dan Kramik,Culture,Indonesia,Jakarta,5000,1.55,4.4,"{'lat': -6.1342598, 'lng': 106.814552}",-6.1342598,106.814552
+The Escape Hunt,Amusement Park,Indonesia,Jakarta,70000,21.7,4.4,"{'lat': -6.2555033, 'lng': 106.8122591}",-6.2555033,106.8122591
+Monumen Selamat Datang,Culture,Indonesia,Jakarta,0,0,4.7,"{'lat': -6.194997799999999, 'lng': 106.8230496}",-6.1949978,106.8230496
+Jakarta Aquarium dan Safari,Amusement Park,Indonesia,Jakarta,185000,57.35,4.6,"{'lat': -6.1752647, 'lng': 106.7904684}",-6.1752647,106.7904684
+Pulau Semak Daun,Nature,Indonesia,Jakarta,40000,12.4,4,"{'lat': -5.729671599999999, 'lng': 106.5714158}",-5.7296716,106.5714158
+Taman Situ Lembang,Amusement Park,Indonesia,Jakarta,0,0,4.5,"{'lat': -6.1978861, 'lng': 106.8346708}",-6.1978861,106.8346708
+Taman Ismail Marzuki,Culture,Indonesia,Jakarta,5000,1.55,4.6,"{'lat': -6.1891586, 'lng': 106.8397738}",-6.1891586,106.8397738
+Galeri Indonesia Kaya,Culture,Indonesia,Jakarta,0,0,4.8,"{'lat': -6.1948499, 'lng': 106.8200607}",-6.1948499,106.8200607
+Museum Joang 45,Culture,Indonesia,Jakarta,2000,0.62,4,"{'lat': -6.186183799999998, 'lng': 106.8364761}",-6.1861838,106.8364761
+Jakarta Planetarium,Amusement Park,Indonesia,Jakarta,12000,3.72,4.1,"{'lat': -6.190081899999999, 'lng': 106.8388532}",-6.1900819,106.8388532
+Kampung Cina,Culture,Indonesia,Jakarta,15000,4.65,4.5,"{'lat': -6.3651357, 'lng': 106.7617984}",-6.3651357,106.7617984
+Rumah Sipitung,Culture,Indonesia,Jakarta,5000,1.55,4.5,"{'lat': -6.10016, 'lng': 106.96057}",-6.10016,106.96057
+Taman Agrowisata Cilangkap,Amusement Park,Indonesia,Jakarta,0,0,4.2,"{'lat': -6.340151399999999, 'lng': 106.9012561}",-6.3401514,106.9012561
+Pantai Ancol,Nature,Indonesia,Jakarta,25000,7.75,4.4,"{'lat': -6.1194215, 'lng': 106.8502435}",-6.1194215,106.8502435
+Taman Lapangan Banteng,Amusement Park,Indonesia,Jakarta,0,0,4.7,"{'lat': -6.170554999999999, 'lng': 106.8350378}",-6.170555,106.8350378
+Taman Ayodya,Amusement Park,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.245229400000001, 'lng': 106.7946655}",-6.2452294,106.7946655
+Museum Sumpah Pemuda,Culture,Indonesia,Jakarta,2000,0.62,4.7,"{'lat': -6.183838799999999, 'lng': 106.8430507}",-6.1838388,106.8430507
+Museum Tekstil,Culture,Indonesia,Jakarta,5000,1.55,4.5,"{'lat': -6.187963400000002, 'lng': 106.8096081}",-6.1879634,106.8096081
+Tugu Proklamasi,Culture,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.2030468, 'lng': 106.8466623}",-6.2030468,106.8466623
+Taman Legenda Keong Emas,Amusement Park,Indonesia,Jakarta,30000,9.3,4.5,"{'lat': -6.303904200000001, 'lng': 106.8936219}",-6.3039042,106.8936219
+Museum Kebangkitan Nasional,Culture,Indonesia,Jakarta,2000,0.62,4.7,"{'lat': -6.178352, 'lng': 106.838094}",-6.178352,106.838094
+Museum Sasmita Loka Ahmad Yani,Culture,Indonesia,Jakarta,2000,0.62,4.7,"{'lat': -6.204630300000001, 'lng': 106.8365324}",-6.2046303,106.8365324
+Museum Basoeki Abdullah,Culture,Indonesia,Jakarta,1000,0.31,4.6,"{'lat': -6.289788499999998, 'lng': 106.7932681}",-6.2897885,106.7932681
+Museum Layang-layang,Culture,Indonesia,Jakarta,10000,3.1,4.5,"{'lat': -6.3080282, 'lng': 106.790548}",-6.3080282,106.790548
+Margasatwa Muara Angke,Nature,Indonesia,Jakarta,25000,7.75,4.2,"{'lat': -6.1160075, 'lng': 106.7692016}",-6.1160075,106.7692016
+Pasar Petak Sembilan,Shopping,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.143672200000001, 'lng': 106.8129398}",-6.1436722,106.8129398
+Freedom Library,Culture,Indonesia,Jakarta,0,0,5,"{'lat': -6.202248200000001, 'lng': 106.8451968}",-6.2022482,106.8451968
+Perpustakaan Nasional,Culture,Indonesia,Jakarta,0,0,4.7,"{'lat': -6.181291799999999, 'lng': 106.8268717}",-6.1812918,106.8268717
+Cibubur Garden Diary (Cibugary),Nature,Indonesia,Jakarta,50000,15.5,4.5,"{'lat': -6.379996900000001, 'lng': 106.8949793}",-6.3799969,106.8949793
+Waterboom PIK (Pantai Indah Kapuk),Amusement Park,Indonesia,Jakarta,300000,93,4.4,"{'lat': -6.113655899999999, 'lng': 106.7478596}",-6.1136559,106.7478596
+Museum Perangko,Culture,Indonesia,Jakarta,5000,1.55,4.4,"{'lat': -6.304184100000001, 'lng': 106.9017725}",-6.3041841,106.9017725
+Museum Tengah Kebun,Culture,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.267513, 'lng': 106.824107}",-6.267513,106.824107
+SnowBay Waterpark,Amusement Park,Indonesia,Jakarta,180000,55.8,4.3,"{'lat': -6.299271800000001, 'lng': 106.89151}",-6.2992718,106.89151
+Taman Cattleya,Amusement Park,Indonesia,Jakarta,20000,6.2,4.5,"{'lat': -6.181084299999999, 'lng': 106.7954476}",-6.1810843,106.7954476
+Taman Hutan Tebet,Amusement Park,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.237140900000001, 'lng': 106.8526505}",-6.2371409,106.8526505
+Hutan Kota Srengseng,Amusement Park,Indonesia,Jakarta,1000,0.31,4.3,"{'lat': -6.210694499999999, 'lng': 106.7643954}",-6.2106945,106.7643954
+Taman Spathodea,Amusement Park,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.3226133, 'lng': 106.8241871}",-6.3226133,106.8241871
+Plaza Indonesia,Shopping,Indonesia,Jakarta,0,0,4.7,"{'lat': -6.193925900000002, 'lng': 106.8222158}",-6.1939259,106.8222158
+Mall Thamrin City,Shopping,Indonesia,Jakarta,0,0,4.4,"{'lat': -6.1946096, 'lng': 106.817905}",-6.1946096,106.817905
+Museum Satria Mandala,Culture,Indonesia,Jakarta,5000,1.55,4.5,"{'lat': -6.231698499999999, 'lng': 106.8185425}",-6.2316985,106.8185425
+Alive Museum Ancol,Amusement Park,Indonesia,Jakarta,200000,62,4.3,"{'lat': -6.117534399999999, 'lng': 106.857313}",-6.1175344,106.857313
+Kawasan Kuliner BSM,Shopping,Indonesia,Jakarta,0,0,4.6,"{'lat': -6.184258799999999, 'lng': 106.824033}",-6.1842588,106.824033
+Taman Pintar Yogyakarta,Amusement Park,Indonesia,Yogyakarta,6000,1.86,4.5,"{'lat': -7.800671500000001, 'lng': 110.3676551}",-7.8006715,110.3676551
+Keraton Yogyakarta,Culture,Indonesia,Yogyakarta,15000,4.65,4.6,"{'lat': -7.8052845, 'lng': 110.3642031}",-7.8052845,110.3642031
+Sindu Kusuma Edupark (SKE),Amusement Park,Indonesia,Yogyakarta,20000,6.2,4.2,"{'lat': -7.767297300000001, 'lng': 110.3542486}",-7.7672973,110.3542486
+Museum Benteng Vredeburg Yogyakarta,Culture,Indonesia,Yogyakarta,3000,0.93,4.6,"{'lat': -7.800201599999999, 'lng': 110.3663044}",-7.8002016,110.3663044
+De Mata Museum Jogja,Culture,Indonesia,Yogyakarta,50000,15.5,4.4,"{'lat': -7.816315599999999, 'lng': 110.3871442}",-7.8163156,110.3871442
+Kampung Wisata Taman Sari,Amusement Park,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -7.8100673, 'lng': 110.3594581}",-7.8100673,110.3594581
+Situs Warungboto,Amusement Park,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.8102685, 'lng': 110.3931513}",-7.8102685,110.3931513
+Nol Kilometer Jl.Malioboro,Amusement Park,Indonesia,Yogyakarta,0,0,4.7,"{'lat': -7.8013803, 'lng': 110.3647652}",-7.8013803,110.3647652
+Gembira Loka Zoo,Nature,Indonesia,Yogyakarta,60000,18.6,4.5,"{'lat': -7.806234399999999, 'lng': 110.3967977}",-7.8062344,110.3967977
+Sumur Gumuling,Amusement Park,Indonesia,Yogyakarta,7000,2.17,4.5,"{'lat': -7.808791100000001, 'lng': 110.3591825}",-7.8087911,110.3591825
+Desa Wisata Sungai Code Jogja Kota,Amusement Park,Indonesia,Yogyakarta,0,0,5,"{'lat': -7.822908900000001, 'lng': 110.3756894}",-7.8229089,110.3756894
+Alun Alun Selatan Yogyakarta,Amusement Park,Indonesia,Yogyakarta,0,0,4.6,"{'lat': -7.8116719, 'lng': 110.363238}",-7.8116719,110.363238
+Monumen Yogya Kembali,Culture,Indonesia,Yogyakarta,15000,4.65,4.5,"{'lat': -7.7495904, 'lng': 110.3696068}",-7.7495904,110.3696068
+Taman Pelangi Yogyakarta,Amusement Park,Indonesia,Yogyakarta,15000,4.65,4.3,"{'lat': -7.7505259, 'lng': 110.3687049}",-7.7505259,110.3687049
+Kampung Wisata Kadipaten,Culture,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.806093000000001, 'lng': 110.35831}",-7.806093,110.35831
+Taman Budaya Yogyakarta,Culture,Indonesia,Yogyakarta,0,0,4.5,"{'lat': -7.8001041, 'lng': 110.3676579}",-7.8001041,110.3676579
+Kampung Wisata Sosro Menduran,Culture,Indonesia,Yogyakarta,0,0,4,"{'lat': -7.792189999999999, 'lng': 110.362151}",-7.79219,110.362151
+Monumen Batik Yogyakarta,Culture,Indonesia,Yogyakarta,40000,12.4,4.5,"{'lat': -7.8011159, 'lng': 110.3646172}",-7.8011159,110.3646172
+Tugu Pal Putih Jogja,Amusement Park,Indonesia,Yogyakarta,0,0,4.7,"{'lat': -7.782943699999998, 'lng': 110.3670548}",-7.7829437,110.3670548
+Tebing Breksi,Culture,Indonesia,Yogyakarta,20000,6.2,4.4,"{'lat': -7.781571400000001, 'lng': 110.5045827}",-7.7815714,110.5045827
+Candi Donotirto,Culture,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.795561299999998, 'lng': 110.3612095}",-7.7955613,110.3612095
+Kawasan Malioboro,Amusement Park,Indonesia,Yogyakarta,0,0,4.8,"{'lat': -7.793167, 'lng': 110.3655238}",-7.793167,110.3655238
+Bangsal Pagelaran,Culture,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -7.805284299999999, 'lng': 110.3642137}",-7.8052843,110.3642137
+Embung Tambakboyo,Amusement Park,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.756227000000001, 'lng': 110.4150131}",-7.756227,110.4150131
+Hutan Pinus Pengger,Amusement Park,Indonesia,Yogyakarta,3000,0.93,4.5,"{'lat': -7.870483200000001, 'lng': 110.4599108}",-7.8704832,110.4599108
+Monumen Serangan Umum 1 Maret,Amusement Park,Indonesia,Yogyakarta,3000,0.93,4.6,"{'lat': -7.801012399999999, 'lng': 110.3653376}",-7.8010124,110.3653376
+Puncak Pinus Becici,Amusement Park,Indonesia,Yogyakarta,3000,0.93,4.5,"{'lat': -7.902035499999998, 'lng': 110.4374627}",-7.9020355,110.4374627
+Bukit Bintang Yogyakarta,Amusement Park,Indonesia,Yogyakarta,25000,7.75,4.5,"{'lat': -7.845840699999997, 'lng': 110.4798457}",-7.8458407,110.4798457
+Gedung Agung Yogyakarta,Culture,Indonesia,Yogyakarta,0,0,4.6,"{'lat': -7.800150599999999, 'lng': 110.3637507}",-7.8001506,110.3637507
+The Lost World Castle,Amusement Park,Indonesia,Yogyakarta,30000,9.3,4.3,"{'lat': -7.6041648, 'lng': 110.4510042}",-7.6041648,110.4510042
+Monumen Sanapati,Culture,Indonesia,Yogyakarta,15000,4.65,4.3,"{'lat': -7.788172800000001, 'lng': 110.3715403}",-7.7881728,110.3715403
+Jurang Tembelan Kanigoro,Amusement Park,Indonesia,Yogyakarta,2500,0.775,4.5,"{'lat': -7.940106500000001, 'lng': 110.4300062}",-7.9401065,110.4300062
+The World Landmarks - Merapi Park Yogyakarta,Amusement Park,Indonesia,Yogyakarta,22000,6.82,4.2,"{'lat': -7.620904599999999, 'lng': 110.4216275}",-7.6209046,110.4216275
+Museum Sonobudoyo Unit I,Culture,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -7.8024499, 'lng': 110.3639555}",-7.8024499,110.3639555
+Lava Bantal,Culture,Indonesia,Yogyakarta,5000,1.55,4.4,"{'lat': -7.808151800000001, 'lng': 110.4595183}",-7.8081518,110.4595183
+Bukit Panguk Kediwung,Culture,Indonesia,Yogyakarta,250000,77.5,4.5,"{'lat': -7.9583695, 'lng': 110.4407622}",-7.9583695,110.4407622
+Candi Prambanan,Culture,Indonesia,Yogyakarta,50000,15.5,4.7,"{'lat': -7.752020600000001, 'lng': 110.4914674}",-7.7520206,110.4914674
+Watu Goyang,Culture,Indonesia,Yogyakarta,2500,0.775,4.4,"{'lat': -7.9274086, 'lng': 110.4120586}",-7.9274086,110.4120586
+Kampung Wisata Rejowinangun,Culture,Indonesia,Yogyakarta,0,0,4.3,"{'lat': -7.8152776, 'lng': 110.3988359}",-7.8152776,110.3988359
+Kauman Pakualaman Yogyakarta,Culture,Indonesia,Yogyakarta,0,0,5,"{'lat': -7.801034700000001, 'lng': 110.3751922}",-7.8010347,110.3751922
+Alun-alun Utara Keraton Yogyakarta,Culture,Indonesia,Yogyakarta,0,0,4.6,"{'lat': -7.803897499999998, 'lng': 110.3644232}",-7.8038975,110.3644232
+Pantai Goa Cemara,Nature,Indonesia,Yogyakarta,4000,1.24,4.3,"{'lat': -7.999422999999998, 'lng': 110.248963}",-7.999423,110.248963
+Blue Lagoon Jogja,Amusement Park,Indonesia,Yogyakarta,10000,3.1,4.3,"{'lat': -7.7044358, 'lng': 110.45026}",-7.7044358,110.45026
+Gumuk Pasir Parangkusumo,Amusement Park,Indonesia,Yogyakarta,0,0,4.5,"{'lat': -8.0173266, 'lng': 110.3180791}",-8.0173266,110.3180791
+Bukit Lintang Sewu,Amusement Park,Indonesia,Yogyakarta,2000,0.62,4.5,"{'lat': -7.915799699999999, 'lng': 110.4366436}",-7.9157997,110.4366436
+Studio Alam Gamplong,Amusement Park,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -7.805793599999998, 'lng': 110.2367304}",-7.8057936,110.2367304
+Watu Lumbung,Nature,Indonesia,Yogyakarta,5000,1.55,4.3,"{'lat': -7.992437900000001, 'lng': 110.317778}",-7.9924379,110.317778
+Air Terjun Kedung Pedut,Nature,Indonesia,Yogyakarta,20000,6.2,4.5,"{'lat': -7.769987499999998, 'lng': 110.1210707}",-7.7699875,110.1210707
+Puncak Kebun Buah Mangunan,Amusement Park,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -7.941371800000001, 'lng': 110.4247345}",-7.9413718,110.4247345
+Desa Wisata Gamplong,Amusement Park,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -7.805523199999997, 'lng': 110.2374676}",-7.8055232,110.2374676
+Kawasan Wisata Sosrowijayan,Shopping,Indonesia,Yogyakarta,0,0,4,"{'lat': -7.7916235, 'lng': 110.361956}",-7.7916235,110.361956
+Grojogan Watu Purbo Bangunrejo,Amusement Park,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -7.6340172, 'lng': 110.33837}",-7.6340172,110.33837
+Wisata Alam Kalibiru,Nature,Indonesia,Yogyakarta,20000,6.2,4.4,"{'lat': -7.8057305, 'lng': 110.127969}",-7.8057305,110.127969
+Jogja Exotarium,Amusement Park,Indonesia,Yogyakarta,20000,6.2,4.4,"{'lat': -7.7280356, 'lng': 110.3591712}",-7.7280356,110.3591712
+Puncak Gunung Api Purba - Nglanggeran,Nature,Indonesia,Yogyakarta,10000,3.1,4.7,"{'lat': -7.841252999999998, 'lng': 110.543056}",-7.841253,110.543056
+Bendung Lepen,Amusement Park,Indonesia,Yogyakarta,0,0,4.6,"{'lat': -7.831666800000002, 'lng': 110.3945119}",-7.8316668,110.3945119
+Bunker Kaliadem Merapi,Nature,Indonesia,Yogyakarta,3000,0.93,4.5,"{'lat': -7.582919800000001, 'lng': 110.4476816}",-7.5829198,110.4476816
+Ledok Sambi,Nature,Indonesia,Yogyakarta,0,0,4.6,"{'lat': -7.647094300000001, 'lng': 110.4280998}",-7.6470943,110.4280998
+Seribu Batu Songgo Langit,Nature,Indonesia,Yogyakarta,2000,0.62,4.6,"{'lat': -7.931098399999999, 'lng': 110.430919}",-7.9310984,110.430919
+Goa Jomblang,Nature,Indonesia,Yogyakarta,500000,155,4.6,"{'lat': -8.0281562, 'lng': 110.6383307}",-8.0281562,110.6383307
+Desa Wisata Rumah Domes/Teletubbies,Amusement Park,Indonesia,Yogyakarta,5000,1.55,4.1,"{'lat': -7.813608499999999, 'lng': 110.5033442}",-7.8136085,110.5033442
+Bukit Wisata Pulepayung,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -7.800110599999999, 'lng': 110.1238954}",-7.8001106,110.1238954
+Bentara Budaya Yogyakarta (BBY),Culture,Indonesia,Yogyakarta,0,0,4.5,"{'lat': -7.7857242, 'lng': 110.3746954}",-7.7857242,110.3746954
+Goa Rancang Kencono,Nature,Indonesia,Yogyakarta,5000,1.55,4.3,"{'lat': -7.9492612, 'lng': 110.4926511}",-7.9492612,110.4926511
+Goa Cerme,Nature,Indonesia,Yogyakarta,3000,0.93,4.4,"{'lat': -7.979441299999999, 'lng': 110.3803114}",-7.9794413,110.3803114
+Wisata Kraton Jogja,Culture,Indonesia,Yogyakarta,7000,2.17,4.7,"{'lat': -7.806753499999999, 'lng': 110.3636659}",-7.8067535,110.3636659
+Desa Wisata Kelor,Amusement Park,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.641025800000001, 'lng': 110.3622794}",-7.6410258,110.3622794
+Pantai Patihan,Nature,Indonesia,Yogyakarta,5000,1.55,4.1,"{'lat': -7.997777999999999, 'lng': 110.2449113}",-7.997778,110.2449113
+Pantai Kukup,Nature,Indonesia,Yogyakarta,10000,3.1,4,"{'lat': -8.133876299999999, 'lng': 110.5548349}",-8.1338763,110.5548349
+Pantai Ngrawe (Mesra),Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1333389, 'lng': 110.5537405}",-8.1333389,110.5537405
+Pantai Ngobaran,Nature,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -8.1184844, 'lng': 110.5028785}",-8.1184844,110.5028785
+Pantai Pulang Sawal,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1506589, 'lng': 110.6126311}",-8.1506589,110.6126311
+Pantai Baron,Nature,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -8.1288246, 'lng': 110.5487763}",-8.1288246,110.5487763
+Pantai Pok Tunggal,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1554468, 'lng': 110.6217582}",-8.1554468,110.6217582
+Hutan Pinus Asri,Nature,Indonesia,Yogyakarta,2500,0.775,4.5,"{'lat': -7.9209209, 'lng': 110.4355651}",-7.9209209,110.4355651
+Pasar Kebon Empring Bintaran,Shopping,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.836320499999998, 'lng': 110.4575806}",-7.8363205,110.4575806
+"Bukit Paralayang, Watugupit",Nature,Indonesia,Yogyakarta,5000,1.55,4.7,"{'lat': -8.026855099999999, 'lng': 110.3459122}",-8.0268551,110.3459122
+Kampung Wisata Dipowinatan,Culture,Indonesia,Yogyakarta,220000,68.2,4.5,"{'lat': -7.810552899999999, 'lng': 110.3704987}",-7.8105529,110.3704987
+Watu Mabur Mangunan,Nature,Indonesia,Yogyakarta,2500,0.775,4.5,"{'lat': -7.947121, 'lng': 110.441}",-7.947121,110.441
+Pintoe Langit Dahromo,Nature,Indonesia,Yogyakarta,2500,0.775,4.4,"{'lat': -7.913608000000001, 'lng': 110.437783}",-7.913608,110.437783
+Green Village Gedangsari,Amusement Park,Indonesia,Yogyakarta,2000,0.62,4.2,"{'lat': -7.813093999999999, 'lng': 110.615571}",-7.813094,110.615571
+Kebun Teh Nglinggo,Nature,Indonesia,Yogyakarta,6000,1.86,4.5,"{'lat': -7.647054, 'lng': 110.1414699}",-7.647054,110.1414699
+Geoforest Watu Payung Turunan,Nature,Indonesia,Yogyakarta,0,0,4.5,"{'lat': -7.974294, 'lng': 110.4364363}",-7.974294,110.4364363
+Pantai Timang,Nature,Indonesia,Yogyakarta,10000,3.1,4.7,"{'lat': -8.1759266, 'lng': 110.6624196}",-8.1759266,110.6624196
+Puncak Segoro,Nature,Indonesia,Yogyakarta,5000,1.55,4.2,"{'lat': -8.1026167, 'lng': 110.4562084}",-8.1026167,110.4562084
+Candi Borobudur,Culture,Indonesia,Yogyakarta,50000,15.5,4.7,"{'lat': -7.6078738, 'lng': 110.2037513}",-7.6078738,110.2037513
+Candi Ijo,Culture,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -7.783827600000001, 'lng': 110.5118987}",-7.7838276,110.5118987
+Pantai Indrayanti,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1508415, 'lng': 110.6129852}",-8.1508415,110.6129852
+Pantai Nglambor,Nature,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -8.1827028, 'lng': 110.6792399}",-8.1827028,110.6792399
+Pasar Beringharjo,Shopping,Indonesia,Yogyakarta,0,0,4.5,"{'lat': -7.798794300000001, 'lng': 110.367443}",-7.7987943,110.367443
+Museum Ullen Sentalu,Culture,Indonesia,Yogyakarta,100000,31,4.7,"{'lat': -7.5978656, 'lng': 110.4233959}",-7.5978656,110.4233959
+Museum Gunung Merapi,Culture,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -7.615927200000001, 'lng': 110.4243329}",-7.6159272,110.4243329
+Pantai Parangtritis,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.024607999999999, 'lng': 110.3298045}",-8.024608,110.3298045
+Goa Pindul,Nature,Indonesia,Yogyakarta,40000,12.4,4.5,"{'lat': -7.9339721, 'lng': 110.651966}",-7.9339721,110.651966
+Candi Ratu Boko,Culture,Indonesia,Yogyakarta,75000,23.25,4.6,"{'lat': -7.7705416, 'lng': 110.4894158}",-7.7705416,110.4894158
+Pantai Depok Jogja,Nature,Indonesia,Yogyakarta,10000,3.1,4.3,"{'lat': -8.0137087, 'lng': 110.2914777}",-8.0137087,110.2914777
+Pantai Sundak,Nature,Indonesia,Yogyakarta,5000,1.55,4.5,"{'lat': -8.147072, 'lng': 110.6079043}",-8.147072,110.6079043
+Hutan Mangrove Kulon Progo,Nature,Indonesia,Yogyakarta,5000,1.55,4.1,"{'lat': -7.8933459, 'lng': 110.0198257}",-7.8933459,110.0198257
+Jogja Bay Pirates Adventure Waterpark,Amusement Park,Indonesia,Yogyakarta,150000,46.5,4.4,"{'lat': -7.747846099999999, 'lng': 110.4188754}",-7.7478461,110.4188754
+Pantai Sepanjang,Nature,Indonesia,Yogyakarta,10000,3.1,4.4,"{'lat': -8.136665599999999, 'lng': 110.5659962}",-8.1366656,110.5659962
+Pantai Krakal,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.145019, 'lng': 110.5998857}",-8.145019,110.5998857
+Pantai Glagah,Nature,Indonesia,Yogyakarta,5000,1.55,4.4,"{'lat': -7.911942699999999, 'lng': 110.0647339}",-7.9119427,110.0647339
+Pantai Siung,Nature,Indonesia,Yogyakarta,10000,3.1,4.6,"{'lat': -8.1818233, 'lng': 110.6832394}",-8.1818233,110.6832394
+Pantai Sadranan,Nature,Indonesia,Yogyakarta,10000,3.1,4.6,"{'lat': -8.145667999999997, 'lng': 110.6043914}",-8.145668,110.6043914
+Pantai Nguluran,Nature,Indonesia,Yogyakarta,10000,3.1,4.1,"{'lat': -8.1060061, 'lng': 110.4618655}",-8.1060061,110.4618655
+Pantai Samas,Nature,Indonesia,Yogyakarta,4000,1.24,4,"{'lat': -8.0045535, 'lng': 110.2703756}",-8.0045535,110.2703756
+Pantai Drini,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1384509, 'lng': 110.577522}",-8.1384509,110.577522
+Air Terjun Sri Gethuk,Nature,Indonesia,Yogyakarta,15000,4.65,4.4,"{'lat': -7.943178000000001, 'lng': 110.48924}",-7.943178,110.48924
+Candi Sewu,Culture,Indonesia,Yogyakarta,50000,15.5,4.6,"{'lat': -7.7439217, 'lng': 110.4929095}",-7.7439217,110.4929095
+Pantai Wediombo,Nature,Indonesia,Yogyakarta,5000,1.55,4.5,"{'lat': -8.1862462, 'lng': 110.709901}",-8.1862462,110.709901
+Pantai Jogan,Nature,Indonesia,Yogyakarta,5000,1.55,4.4,"{'lat': -8.180135, 'lng': 110.6763715}",-8.180135,110.6763715
+Pantai Ngrenehan,Nature,Indonesia,Yogyakarta,3000,0.93,4.4,"{'lat': -8.1211475, 'lng': 110.5142337}",-8.1211475,110.5142337
+Pantai Jungwok,Nature,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -8.197822, 'lng': 110.7123397}",-8.197822,110.7123397
+Pantai Greweng,Nature,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -8.197864399999998, 'lng': 110.7186216}",-8.1978644,110.7186216
+Pantai Sedahan,Nature,Indonesia,Yogyakarta,5000,1.55,4.5,"{'lat': -8.1978943, 'lng': 110.7208535}",-8.1978943,110.7208535
+Pantai Watu Kodok,Nature,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -8.1370556, 'lng': 110.5746611}",-8.1370556,110.5746611
+Pantai Kesirat,Nature,Indonesia,Yogyakarta,5000,1.55,4.6,"{'lat': -8.096153500000002, 'lng': 110.4350483}",-8.0961535,110.4350483
+Pantai Ngandong,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.146423, 'lng': 110.6061408}",-8.146423,110.6061408
+Galaxy Waterpark Jogja,Amusement Park,Indonesia,Yogyakarta,40000,12.4,4.3,"{'lat': -7.815963299999999, 'lng': 110.4136917}",-7.8159633,110.4136917
+Desa Wisata Pulesari,Amusement Park,Indonesia,Yogyakarta,0,0,4.4,"{'lat': -7.625880599999999, 'lng': 110.371698}",-7.6258806,110.371698
+Desa Wisata Tembi,Amusement Park,Indonesia,Yogyakarta,50000,15.5,4.5,"{'lat': -7.872567300000001, 'lng': 110.3546963}",-7.8725673,110.3546963
+Wisata Kaliurang,Nature,Indonesia,Yogyakarta,8000,2.48,4.4,"{'lat': -7.6120675, 'lng': 110.4205209}",-7.6120675,110.4205209
+Heha Sky View,Amusement Park,Indonesia,Yogyakarta,15000,4.65,4.4,"{'lat': -7.8496144, 'lng': 110.478324}",-7.8496144,110.478324
+Taman Sungai Mudal,Nature,Indonesia,Yogyakarta,10000,3.1,4.6,"{'lat': -7.762813599999998, 'lng': 110.1161626}",-7.7628136,110.1161626
+Pantai Sanglen,Nature,Indonesia,Yogyakarta,10000,3.1,4.5,"{'lat': -8.1367456, 'lng': 110.5716362}",-8.1367456,110.5716362
+Pantai Congot,Nature,Indonesia,Yogyakarta,3000,0.93,4.3,"{'lat': -7.907542500000001, 'lng': 110.0535658}",-7.9075425,110.0535658
+GunungTangkuban perahu,Nature,Indonesia,Bandung,30000,9.3,4.5,"{'lat': -6.759637700000001, 'lng': 107.6097807}",-6.7596377,107.6097807
+Jalan Braga,Culture,Indonesia,Bandung,0,0,4.7,"{'lat': -6.9150534, 'lng': 107.6089842}",-6.9150534,107.6089842
+Gedung Sate,Culture,Indonesia,Bandung,5000,1.55,4.6,"{'lat': -6.9024812, 'lng': 107.61881}",-6.9024812,107.61881
+Trans Studio Bandung,Amusement Park,Indonesia,Bandung,280000,86.8,4.5,"{'lat': -6.9250943, 'lng': 107.6364944}",-6.9250943,107.6364944
+Taman Hutan Raya Ir. H. Djuanda,Nature,Indonesia,Bandung,15000,4.65,4.5,"{'lat': -6.8565791, 'lng': 107.6323734}",-6.8565791,107.6323734
+Farm House Susu Lembang,Amusement Park,Indonesia,Bandung,30000,9.3,4.4,"{'lat': -6.832968999999999, 'lng': 107.6056183}",-6.832969,107.6056183
+Kebun Binatang Bandung,Nature,Indonesia,Bandung,20000,6.2,4,"{'lat': -6.8897177, 'lng': 107.6077282}",-6.8897177,107.6077282
+Kawah Putih,Nature,Indonesia,Bandung,81000,25.11,4.5,"{'lat': -7.166203899999999, 'lng': 107.4021256}",-7.1662039,107.4021256
+Tebing Karaton,Nature,Indonesia,Bandung,15000,4.65,4.5,"{'lat': -6.8340683, 'lng': 107.6636151}",-6.8340683,107.6636151
+Dusun Bambu,Amusement Park,Indonesia,Bandung,25000,7.75,4.5,"{'lat': -6.7897147, 'lng': 107.5791627}",-6.7897147,107.5791627
+Museum Geologi Bandung,Culture,Indonesia,Bandung,2000,0.62,4.6,"{'lat': -6.900716200000001, 'lng': 107.6214553}",-6.9007162,107.6214553
+Museum Konferensi Asia Afrika,Culture,Indonesia,Bandung,0,0,4.6,"{'lat': -6.921109200000001, 'lng': 107.609597}",-6.9211092,107.609597
+Dago Dreampark,Amusement Park,Indonesia,Bandung,40000,12.4,4.2,"{'lat': -6.8486423, 'lng': 107.625939}",-6.8486423,107.625939
+Orchid Forest Cikole,Amusement Park,Indonesia,Bandung,50000,15.5,4.6,"{'lat': -6.780493, 'lng': 107.637475}",-6.780493,107.637475
+Kawasan Punclut,Amusement Park,Indonesia,Bandung,20000,6.2,4.4,"{'lat': -6.8419756, 'lng': 107.622824}",-6.8419756,107.622824
+Alun-Alun Kota Bandung,Amusement Park,Indonesia,Bandung,0,0,4.6,"{'lat': -6.9218571, 'lng': 107.6070141}",-6.9218571,107.6070141
+Museum Sri Baduga,Culture,Indonesia,Bandung,3000,0.93,4.5,"{'lat': -6.9375748, 'lng': 107.603775}",-6.9375748,107.603775
+Rabbit Town,Amusement Park,Indonesia,Bandung,45000,13.95,4,"{'lat': -6.8669518, 'lng': 107.6100859}",-6.8669518,107.6100859
+Stone Garden Citatah,Amusement Park,Indonesia,Bandung,30000,9.3,4.4,"{'lat': -6.8281528, 'lng': 107.4350179}",-6.8281528,107.4350179
+The Great Asia Africa,Amusement Park,Indonesia,Bandung,50000,15.5,4.4,"{'lat': -6.833122999999999, 'lng': 107.6041595}",-6.833123,107.6041595
+Bukit Moko,Nature,Indonesia,Bandung,25000,7.75,4.5,"{'lat': -6.8422202, 'lng': 107.6767988}",-6.8422202,107.6767988
+Gunung Papandayan,Nature,Indonesia,Bandung,30000,9.3,4.6,"{'lat': -7.319325300000001, 'lng': 107.7310494}",-7.3193253,107.7310494
+Amazing Art World,Culture,Indonesia,Bandung,75000,23.25,4.5,"{'lat': -6.8516591, 'lng': 107.5955534}",-6.8516591,107.5955534
+Gua Belanda,Nature,Indonesia,Bandung,15000,4.65,4.4,"{'lat': -6.8544594, 'lng': 107.6377907}",-6.8544594,107.6377907
+Taman Balai Kota Bandung,Amusement Park,Indonesia,Bandung,0,0,4.6,"{'lat': -6.912966000000001, 'lng': 107.6096031}",-6.912966,107.6096031
+Panghegar Waterboom Bandung,Amusement Park,Indonesia,Bandung,75000,23.25,4.3,"{'lat': -6.961403199999999, 'lng': 107.6227321}",-6.9614032,107.6227321
+Gunung Manglayang,Nature,Indonesia,Bandung,7500,2.325,4.5,"{'lat': -6.876111099999999, 'lng': 107.7436111}",-6.8761111,107.7436111
+Lembang Park & Zoo,Nature,Indonesia,Bandung,50000,15.5,4.5,"{'lat': -6.8059154, 'lng': 107.5919726}",-6.8059154,107.5919726
+Taman Lalu Lintas Ade Irma Suryani Nasution,Amusement Park,Indonesia,Bandung,7000,2.17,4.4,"{'lat': -6.911211, 'lng': 107.6133389}",-6.911211,107.6133389
+Lawangwangi Creative Space,Amusement Park,Indonesia,Bandung,0,0,4.4,"{'lat': -6.847898000000001, 'lng': 107.6276146}",-6.847898,107.6276146
+Curug Dago,Nature,Indonesia,Bandung,12000,3.72,4,"{'lat': -6.865522499999999, 'lng': 107.6181878}",-6.8655225,107.6181878
+Kampung Korea Bandung,Culture,Indonesia,Bandung,15000,4.65,4.1,"{'lat': -6.9154546, 'lng': 107.640769}",-6.9154546,107.640769
+Kampung Batu Malakasari,Amusement Park,Indonesia,Bandung,10000,3.1,4.1,"{'lat': -7.0093633, 'lng': 107.6069444}",-7.0093633,107.6069444
+Jendela Alam,Amusement Park,Indonesia,Bandung,20000,6.2,4.4,"{'lat': -6.819604, 'lng': 107.5964519}",-6.819604,107.5964519
+Curug Tilu Leuwi Opat,Nature,Indonesia,Bandung,10000,3.1,4.4,"{'lat': -6.790569199999999, 'lng': 107.5826388}",-6.7905692,107.5826388
+Kiara Artha Park,Amusement Park,Indonesia,Bandung,15000,4.65,4.4,"{'lat': -6.9159459, 'lng': 107.6421462}",-6.9159459,107.6421462
+NuArt Sculpture Park,Amusement Park,Indonesia,Bandung,50000,15.5,4.7,"{'lat': -6.8778589, 'lng': 107.5720263}",-6.8778589,107.5720263
+Upside Down World Bandung,Amusement Park,Indonesia,Bandung,100000,31,4,"{'lat': -6.896300000000001, 'lng': 107.617}",-6.8963,107.617
+Pesona Nirwana Waterpark & Cottages,Amusement Park,Indonesia,Bandung,50000,15.5,4.1,"{'lat': -7.040915399999998, 'lng': 107.5269156}",-7.0409154,107.5269156
+Taman Lansia,Amusement Park,Indonesia,Bandung,0,0,4.4,"{'lat': -6.9021326, 'lng': 107.6209387}",-6.9021326,107.6209387
+Kampoeng Tulip,Amusement Park,Indonesia,Bandung,15000,4.65,3.8,"{'lat': -6.963162, 'lng': 107.66195}",-6.963162,107.66195
+Selasar Sunaryo Art Space,Amusement Park,Indonesia,Bandung,25000,7.75,4.6,"{'lat': -6.8585406, 'lng': 107.6365486}",-6.8585406,107.6365486
+Teras Cikapundung BBWS,Amusement Park,Indonesia,Bandung,0,0,4.3,"{'lat': -6.8844199, 'lng': 107.6068344}",-6.8844199,107.6068344
+Museum Barli,Culture,Indonesia,Bandung,15000,4.65,4.4,"{'lat': -6.878238699999999, 'lng': 107.5875349}",-6.8782387,107.5875349
+Wisata Batu Kuda,Nature,Indonesia,Bandung,10000,3.1,4.4,"{'lat': -6.893610600000001, 'lng': 107.7447399}",-6.8936106,107.7447399
+Monumen Bandung Lautan Api,Culture,Indonesia,Bandung,0,0,4.3,"{'lat': -6.9338497, 'lng': 107.604925}",-6.9338497,107.604925
+Museum Gedung Sate,Culture,Indonesia,Bandung,5000,1.55,4.6,"{'lat': -6.902637899999999, 'lng': 107.619169}",-6.9026379,107.619169
+Monumen Perjuangan Rakyat Jawa Barat,Culture,Indonesia,Bandung,0,0,4.5,"{'lat': -6.8934327, 'lng': 107.6185513}",-6.8934327,107.6185513
+Museum Pos Indonesia,Culture,Indonesia,Bandung,0,0,4.5,"{'lat': -6.902012999999998, 'lng': 107.6197787}",-6.902013,107.6197787
+Ciwangun Indah Camp Official,Nature,Indonesia,Bandung,10000,3.1,4.3,"{'lat': -6.786939, 'lng': 107.5837331}",-6.786939,107.5837331
+Wot Batu,Nature,Indonesia,Bandung,50000,15.5,4.7,"{'lat': -6.8597013, 'lng': 107.6360983}",-6.8597013,107.6360983
+Curug Batu Templek,Nature,Indonesia,Bandung,5000,1.55,4.1,"{'lat': -6.874363300000001, 'lng': 107.6844023}",-6.8743633,107.6844023
+Museum Mandala Wangsit Siliwangi,Culture,Indonesia,Bandung,0,0,4.4,"{'lat': -6.9173405, 'lng': 107.6112627}",-6.9173405,107.6112627
+Caringin Tilu,Nature,Indonesia,Bandung,0,0,4.4,"{'lat': -6.858046399999999, 'lng': 107.6647084}",-6.8580464,107.6647084
+Panama Park 825,Amusement Park,Indonesia,Bandung,50000,15.5,4.4,"{'lat': -6.9119768, 'lng': 107.569674}",-6.9119768,107.569674
+Sudut Pandang Bandung,Amusement Park,Indonesia,Bandung,50000,15.5,4.6,"{'lat': -6.842363799999999, 'lng': 107.6232403}",-6.8423638,107.6232403
+Bumi Perkemahan Batu Kuda,Nature,Indonesia,Bandung,7500,2.325,4.5,"{'lat': -6.893217299999999, 'lng': 107.7448856}",-6.8932173,107.7448856
+Bukit Bintang,Nature,Indonesia,Bandung,25000,7.75,4.6,"{'lat': -6.8417795, 'lng': 107.6768585}",-6.8417795,107.6768585
+Taman Vanda,Amusement Park,Indonesia,Bandung,0,0,4.3,"{'lat': -6.9140478, 'lng': 107.6101684}",-6.9140478,107.6101684
+Taman Budaya Jawa Barat,Culture,Indonesia,Bandung,0,0,4.3,"{'lat': -6.870099, 'lng': 107.6164386}",-6.870099,107.6164386
+Curug Bugbrug,Nature,Indonesia,Bandung,7500,2.325,4.3,"{'lat': -6.790388999999999, 'lng': 107.5777632}",-6.790389,107.5777632
+Babakan Siliwangi City Forest Path Bandung,Nature,Indonesia,Bandung,0,0,4.6,"{'lat': -6.8853746, 'lng': 107.6111899}",-6.8853746,107.6111899
+Curug Cipanas,Nature,Indonesia,Bandung,20000,6.2,3.9,"{'lat': -6.7991958, 'lng': 107.5922088}",-6.7991958,107.5922088
+Taman Jomblo,Amusement Park,Indonesia,Bandung,10000,3.1,4.1,"{'lat': -6.8980549, 'lng': 107.6094673}",-6.8980549,107.6094673
+Peta Park,Amusement Park,Indonesia,Bandung,15000,4.65,4.3,"{'lat': -6.9317951, 'lng': 107.5883026}",-6.9317951,107.5883026
+Tektona Waterpark,Amusement Park,Indonesia,Bandung,60000,18.6,3.8,"{'lat': -7.009602199999999, 'lng': 107.6062161}",-7.0096022,107.6062161
+Curug Cilengkrang,Nature,Indonesia,Bandung,7500,2.325,4,"{'lat': -6.8908877, 'lng': 107.7307085}",-6.8908877,107.7307085
+Jembatan Pasupati,Amusement Park,Indonesia,Bandung,0,0,4.6,"{'lat': -6.900098700000001, 'lng': 107.6046708}",-6.9000987,107.6046708
+Pasar Baru,Shopping,Indonesia,Bandung,0,0,4.3,"{'lat': -6.9177044, 'lng': 107.6036014}",-6.9177044,107.6036014
+Taman Sejarah Bandung,Culture,Indonesia,Bandung,0,0,4.6,"{'lat': -6.9103086, 'lng': 107.6098619}",-6.9103086,107.6098619
+Roemah Seni Sarasvati,Culture,Indonesia,Bandung,0,0,4.4,"{'lat': -6.9204173, 'lng': 107.5996425}",-6.9204173,107.5996425
+Puspa Iptek Sundial,Amusement Park,Indonesia,Bandung,25000,7.75,4.4,"{'lat': -6.852207999999999, 'lng': 107.493882}",-6.852208,107.493882
+Curug Aseupan,Nature,Indonesia,Bandung,10000,3.1,4.7,"{'lat': -6.7875652, 'lng': 107.5822844}",-6.7875652,107.5822844
+Museum Pendidikan Nasional,Culture,Indonesia,Bandung,5000,1.55,4.6,"{'lat': -6.859747400000001, 'lng': 107.5941693}",-6.8597474,107.5941693
+Water Park Bandung Indah,Amusement Park,Indonesia,Bandung,50000,15.5,4,"{'lat': -6.980580700000001, 'lng': 107.5856567}",-6.9805807,107.5856567
+Curug Anom,Nature,Indonesia,Bandung,0,0,4.6,"{'lat': -6.811600899999998, 'lng': 107.5695213}",-6.8116009,107.5695213
+Taman Badak,Amusement Park,Indonesia,Bandung,0,0,4.5,"{'lat': -6.9132752, 'lng': 107.6094908}",-6.9132752,107.6094908
+Taman Film,Culture,Indonesia,Bandung,0,0,4.3,"{'lat': -6.8986869, 'lng': 107.6077451}",-6.8986869,107.6077451
+Museum Nike Ardilla,Culture,Indonesia,Bandung,0,0,4.6,"{'lat': -6.9406015, 'lng': 107.6725445}",-6.9406015,107.6725445
+Batununggal Indah Club,Amusement Park,Indonesia,Bandung,70000,21.7,4.4,"{'lat': -6.963229999999999, 'lng': 107.626416}",-6.96323,107.626416
+Mountain View Golf Club,Nature,Indonesia,Bandung,375000,116.25,4.4,"{'lat': -6.8629384, 'lng': 107.6482191}",-6.8629384,107.6482191
+Gunung Lalakon,Nature,Indonesia,Bandung,0,0,4.8,"{'lat': -6.958055600000001, 'lng': 107.5205556}",-6.9580556,107.5205556
+Sendang Geulis Kahuripan,Nature,Indonesia,Bandung,10000,3.1,4.3,"{'lat': -6.7495268, 'lng': 107.478658}",-6.7495268,107.478658
+Sanghyang Heuleut,Nature,Indonesia,Bandung,10000,3.1,4.4,"{'lat': -6.876513099999999, 'lng': 107.3422183}",-6.8765131,107.3422183
+Lereng Anteng Panoramic Coffee Place,Nature,Indonesia,Bandung,50000,15.5,4.4,"{'lat': -6.842535, 'lng': 107.622698}",-6.842535,107.622698
+Situ Cileunca,Nature,Indonesia,Bandung,2500,0.775,4.4,"{'lat': -7.192328099999997, 'lng': 107.5510012}",-7.1923281,107.5510012
+Sunrise Point Cukul,Nature,Indonesia,Bandung,10000,3.1,4.6,"{'lat': -7.233689000000002, 'lng': 107.5342933}",-7.233689,107.5342933
+Sungai Palayangan,Nature,Indonesia,Bandung,150000,46.5,4.6,"{'lat': -7.1965023, 'lng': 107.5454594}",-7.1965023,107.5454594
+Perkebunan Teh Malabar,Nature,Indonesia,Bandung,5000,1.55,4.4,"{'lat': -7.2274463, 'lng': 107.6050805}",-7.2274463,107.6050805
+Pemandian Air Panas Ciater,Nature,Indonesia,Bandung,15000,4.65,4.3,"{'lat': -6.738085299999999, 'lng': 107.6566092}",-6.7380853,107.6566092
+Observatorium Bosscha,Nature,Indonesia,Bandung,25000,7.75,4.5,"{'lat': -6.8246311, 'lng': 107.6171106}",-6.8246311,107.6171106
+Taman Bunga Cihideung,Nature,Indonesia,Bandung,0,0,4.1,"{'lat': -6.8038883, 'lng': 107.5866313}",-6.8038883,107.5866313
+The Lodge Maribaya,Nature,Indonesia,Bandung,25000,7.75,4.3,"{'lat': -6.829411199999999, 'lng': 107.6874666}",-6.8294112,107.6874666
+Taman Hutan Raya Ir. H. Juanda,Nature,Indonesia,Bandung,11000,3.41,4.5,"{'lat': -6.8585841, 'lng': 107.6306089}",-6.8585841,107.6306089
+Taman Begonia,Nature,Indonesia,Bandung,10000,3.1,4.4,"{'lat': -6.8260163, 'lng': 107.6383564}",-6.8260163,107.6383564
+Tafso Barn,Nature,Indonesia,Bandung,0,0,4.2,"{'lat': -6.8426446, 'lng': 107.6228408}",-6.8426446,107.6228408
+Curug Luhur Waterfall,Nature,Indonesia,Bandung,5000,1.55,4.2,"{'lat': -6.8131767, 'lng': 107.7136367}",-6.8131767,107.7136367
+Curug Malela,Nature,Indonesia,Bandung,10000,3.1,4.4,"{'lat': -7.0182386, 'lng': 107.2072145}",-7.0182386,107.2072145
+Curug Cimahi,Nature,Indonesia,Bandung,15000,4.65,4.6,"{'lat': -6.797738300000002, 'lng': 107.5783691}",-6.7977383,107.5783691
+Situ Patenggang,Nature,Indonesia,Bandung,20000,6.2,4.5,"{'lat': -7.1669649, 'lng': 107.3575344}",-7.1669649,107.3575344
+Kawah Rengganis Cibuni,Nature,Indonesia,Bandung,5000,1.55,4.3,"{'lat': -7.172412599999999, 'lng': 107.3766656}",-7.1724126,107.3766656
+Pemandian Air Panas Cimanggu,Nature,Indonesia,Bandung,23000,7.13,3.9,"{'lat': -7.147152899999998, 'lng': 107.3901424}",-7.1471529,107.3901424
+Glamping Lakeside Rancabali,Amusement Park,Indonesia,Bandung,30000,9.3,4.4,"{'lat': -7.167590799999999, 'lng': 107.3532419}",-7.1675908,107.3532419
+Bukit Jamur,Nature,Indonesia,Bandung,0,0,4.2,"{'lat': -7.195110199999998, 'lng': 107.4312811}",-7.1951102,107.4312811
+Kebun Tanaman Obat Sari Alam,Nature,Indonesia,Bandung,0,0,4.9,"{'lat': -6.601320999999999, 'lng': 106.632734}",-6.601321,106.632734
+Happyfarm Ciwidey,Nature,Indonesia,Bandung,15000,4.65,4.2,"{'lat': -7.1147877, 'lng': 107.4380865}",-7.1147877,107.4380865
+Saung Angklung Mang Udjo,Culture,Indonesia,Bandung,75000,23.25,4.7,"{'lat': -6.897136199999999, 'lng': 107.6558466}",-6.8971362,107.6558466
+Taman Kupu-Kupu Cihanjuang,Nature,Indonesia,Bandung,10000,3.1,4,"{'lat': -6.8590047, 'lng': 107.568779}",-6.8590047,107.568779
+Taman Miniatur Kereta Api,Amusement Park,Indonesia,Bandung,15000,4.65,4.4,"{'lat': -6.817327, 'lng': 107.61794}",-6.817327,107.61794
+Gua Pawon,Nature,Indonesia,Bandung,10000,3.1,4.5,"{'lat': -6.8231833, 'lng': 107.4371655}",-6.8231833,107.4371655
+Bukit Gantole Cililin,Nature,Indonesia,Bandung,0,0,4.4,"{'lat': -6.9588812, 'lng': 107.4713147}",-6.9588812,107.4713147
+Bandros City Tour,Culture,Indonesia,Bandung,40000,12.4,4.4,"{'lat': -6.922081599999999, 'lng': 107.6073182}",-6.9220816,107.6073182
+Kyotoku Floating Market,Culture,Indonesia,Bandung,175000,54.25,4.5,"{'lat': -6.819874999999999, 'lng': 107.618707}",-6.819875,107.618707
+Rainbow Garden,Nature,Indonesia,Bandung,20000,6.2,4.6,"{'lat': -6.8179514, 'lng': 107.618914}",-6.8179514,107.618914
+Kota Mini,Amusement Park,Indonesia,Bandung,20000,6.2,4.4,"{'lat': -6.818688799999999, 'lng': 107.6169403}",-6.8186888,107.6169403
+Chingu Cafe Little Seoul,Amusement Park,Indonesia,Bandung,50000,15.5,4.5,"{'lat': -6.901224099999999, 'lng': 107.6099853}",-6.9012241,107.6099853
+Candi Gedong Songo,Culture,Indonesia,Semarang,10000,3.1,4.5,"{'lat': -7.209886700000002, 'lng': 110.3421119}",-7.2098867,110.3421119
+Grand Maerakaca,Amusement Park,Indonesia,Semarang,15000,4.65,4.4,"{'lat': -6.9605225, 'lng': 110.3863941}",-6.9605225,110.3863941
+Kampung Pelangi,Amusement Park,Indonesia,Semarang,3000,0.93,4.3,"{'lat': -6.988881200000001, 'lng': 110.4083781}",-6.9888812,110.4083781
+Lawang Sewu,Culture,Indonesia,Semarang,10000,3.1,4.6,"{'lat': -6.9839099, 'lng': 110.4104342}",-6.9839099,110.4104342
+Sam Poo Kong Temple,Culture,Indonesia,Semarang,35000,10.85,4.5,"{'lat': -6.996236599999999, 'lng': 110.398122}",-6.9962366,110.398122
+Desa Wisata Lembah Kalipancur,Amusement Park,Indonesia,Semarang,0,0,3.9,"{'lat': -7.0205245, 'lng': 110.3754605}",-7.0205245,110.3754605
+Hutan Wisata Tinjomoyo Semarang,Nature,Indonesia,Semarang,3000,0.93,4.3,"{'lat': -7.0296837, 'lng': 110.3999611}",-7.0296837,110.3999611
+Taman Kasmaran,Amusement Park,Indonesia,Semarang,3000,0.93,4.5,"{'lat': -6.9909404, 'lng': 110.4065932}",-6.9909404,110.4065932
+Pantai Baruna,Nature,Indonesia,Semarang,3000,0.93,4,"{'lat': -6.945105199999999, 'lng': 110.3982398}",-6.9451052,110.3982398
+Pantai Marina,Nature,Indonesia,Semarang,3000,0.93,4.1,"{'lat': -6.948877, 'lng': 110.3893285}",-6.948877,110.3893285
+Kampoeng Djadhoel Semarang,Culture,Indonesia,Semarang,10000,3.1,4.7,"{'lat': -6.968773100000001, 'lng': 110.4319505}",-6.9687731,110.4319505
+Indonesia Kaya Park,Amusement Park,Indonesia,Semarang,0,0,4.6,"{'lat': -6.992350699999998, 'lng': 110.4201162}",-6.9923507,110.4201162
+Taman Pandanaran,Amusement Park,Indonesia,Semarang,0,0,4.4,"{'lat': -6.987793600000001, 'lng': 110.4172262}",-6.9877936,110.4172262
+Pura Giri Natha,Culture,Indonesia,Semarang,20000,6.2,4.7,"{'lat': -6.998475900000001, 'lng': 110.4106468}",-6.9984759,110.4106468
+Wisata Mangrove Tapak,Nature,Indonesia,Semarang,5000,1.55,4.3,"{'lat': -6.968561800000001, 'lng': 110.3459696}",-6.9685618,110.3459696
+Pantai Cipta,Nature,Indonesia,Semarang,5000,1.55,4,"{'lat': -6.9486402, 'lng': 110.4102923}",-6.9486402,110.4102923
+Old City 3D Trick Art Museum,Culture,Indonesia,Semarang,50000,15.5,4.4,"{'lat': -6.968406400000001, 'lng': 110.4261995}",-6.9684064,110.4261995
+Taman Srigunting,Amusement Park,Indonesia,Semarang,0,0,4.7,"{'lat': -6.9681728, 'lng': 110.4278262}",-6.9681728,110.4278262
+Semarang Contemporary Art Gallery,Culture,Indonesia,Semarang,10000,3.1,4.6,"{'lat': -6.967499999999999, 'lng': 110.4282}",-6.9675,110.4282
+Umbul Sidomukti,Nature,Indonesia,Semarang,75000,23.25,4.6,"{'lat': -7.1945903, 'lng': 110.3733583}",-7.1945903,110.3733583
+Saloka Theme Park,Amusement Park,Indonesia,Semarang,150000,46.5,4.4,"{'lat': -7.280726200000001, 'lng': 110.4595539}",-7.2807262,110.4595539
+Wisata Alam Wana Wisata Penggaron,Nature,Indonesia,Semarang,10000,3.1,4.1,"{'lat': -7.115796899999999, 'lng': 110.4217966}",-7.1157969,110.4217966
+Taman Bunga Celosia,Nature,Indonesia,Semarang,25000,7.75,4.3,"{'lat': -7.225504099999998, 'lng': 110.3463166}",-7.2255041,110.3463166
+Air Terjun Kali Pancur,Nature,Indonesia,Semarang,5000,1.55,4.1,"{'lat': -7.358096300000001, 'lng': 110.4210681}",-7.3580963,110.4210681
+Wisata Kampung Krisan Clapar,Amusement Park,Indonesia,Semarang,10000,3.1,4.1,"{'lat': -7.214158199999999, 'lng': 110.3769541}",-7.2141582,110.3769541
+Danau Rawa Pening,Nature,Indonesia,Semarang,15000,4.65,4.4,"{'lat': -7.2854929, 'lng': 110.4321671}",-7.2854929,110.4321671
+Pantai Maron,Nature,Indonesia,Semarang,5000,1.55,3.4,"{'lat': -6.9545687, 'lng': 110.3600951}",-6.9545687,110.3600951
+Water Blaster Bukit Candi Golf,Amusement Park,Indonesia,Semarang,80000,24.8,4.2,"{'lat': -7.0218894, 'lng': 110.4383345}",-7.0218894,110.4383345
+Waduk Jatibarang,Nature,Indonesia,Semarang,2500,0.775,4.3,"{'lat': -7.0370499, 'lng': 110.3477586}",-7.0370499,110.3477586
+Tirto Argo Siwarak,Amusement Park,Indonesia,Semarang,20000,6.2,4.4,"{'lat': -7.132106000000001, 'lng': 110.394523}",-7.132106,110.394523
+Wisata Lereng Kelir,Nature,Indonesia,Semarang,7000,2.17,4.3,"{'lat': -7.3126613, 'lng': 110.3746785}",-7.3126613,110.3746785
+Kampoeng Rawa,Nature,Indonesia,Semarang,3000,0.93,4.5,"{'lat': -7.267539000000001, 'lng': 110.418076}",-7.267539,110.418076
+Monumen Palagan Ambarawa,Culture,Indonesia,Semarang,7500,2.325,4.4,"{'lat': -7.259886099999998, 'lng': 110.4025602}",-7.2598861,110.4025602
+Benteng Pendem,Culture,Indonesia,Semarang,5000,1.55,4.2,"{'lat': -7.2706462, 'lng': 110.4103291}",-7.2706462,110.4103291
+Wisata Eling Bening,Nature,Indonesia,Semarang,25000,7.75,4.3,"{'lat': -7.253109599999999, 'lng': 110.4264512}",-7.2531096,110.4264512
+Gua Maria Kerep Ambarawa,Nature,Indonesia,Semarang,2000,0.62,4.8,"{'lat': -7.255236400000001, 'lng': 110.3991897}",-7.2552364,110.3991897
+Museum Kereta Ambarawa,Culture,Indonesia,Semarang,10000,3.1,4.5,"{'lat': -7.264598899999997, 'lng': 110.4046017}",-7.2645989,110.4046017
+Hutan Pinus Kayon,Nature,Indonesia,Semarang,6000,1.86,4.4,"{'lat': -7.395606000000001, 'lng': 110.4517727}",-7.395606,110.4517727
+Kota Lama Semarang,Culture,Indonesia,Semarang,0,0,4.7,"{'lat': -6.9681399, 'lng': 110.4278611}",-6.9681399,110.4278611
+Semarang Chinatown,Culture,Indonesia,Semarang,30000,9.3,4.5,"{'lat': -6.974992299999999, 'lng': 110.424954}",-6.9749923,110.424954
+La Kana Chapel,Amusement Park,Indonesia,Semarang,35000,10.85,4.5,"{'lat': -7.215692300000001, 'lng': 110.3649392}",-7.2156923,110.3649392
+Jembatan Biru Ambarawa,Amusement Park,Indonesia,Semarang,0,0,4.2,"{'lat': -7.267820100000002, 'lng': 110.4483217}",-7.2678201,110.4483217
+Goa Rong,Nature,Indonesia,Semarang,5000,1.55,4.3,"{'lat': -7.2721621, 'lng': 110.4698457}",-7.2721621,110.4698457
+Tugu Muda Semarang,Culture,Indonesia,Semarang,0,0,4.7,"{'lat': -6.9843485, 'lng': 110.4093207}",-6.9843485,110.4093207
+Kampoeng Kopi Banaran,Amusement Park,Indonesia,Semarang,200000,62,4.3,"{'lat': -7.253900499999999, 'lng': 110.4414953}",-7.2539005,110.4414953
+Taman Tabanas,Amusement Park,Indonesia,Semarang,0,0,4.4,"{'lat': -7.038803199999999, 'lng': 110.4215576}",-7.0388032,110.4215576
+Kampung Tematik Jawi,Culture,Indonesia,Semarang,0,0,4.5,"{'lat': -7.029097399999999, 'lng': 110.3775382}",-7.0290974,110.3775382
+Kampung Batik Gedong Semarang,Culture,Indonesia,Semarang,0,0,4.4,"{'lat': -6.968882100000001, 'lng': 110.4318692}",-6.9688821,110.4318692
+Air Terjun Semirang,Nature,Indonesia,Semarang,9000,2.79,4.4,"{'lat': -7.166297100000002, 'lng': 110.381068}",-7.1662971,110.381068
+Obyek Wisata Goa Kreo,Nature,Indonesia,Semarang,5500,1.705,4.3,"{'lat': -7.0372113, 'lng': 110.3476164}",-7.0372113,110.3476164
+Watu Gunung Ungaran,Nature,Indonesia,Semarang,25000,7.75,4.4,"{'lat': -7.129806599999999, 'lng': 110.388832}",-7.1298066,110.388832
+Brown Canyon,Nature,Indonesia,Semarang,0,0,4.2,"{'lat': -7.0565164, 'lng': 110.4862531}",-7.0565164,110.4862531
+Durian Gardens and Tourism Education Watu Simbar,Nature,Indonesia,Semarang,5000,1.55,4.1,"{'lat': -7.096707899999999, 'lng': 110.3900517}",-7.0967079,110.3900517
+Flower Farm Setiya Aji,Nature,Indonesia,Semarang,7500,2.325,4.1,"{'lat': -7.2241813, 'lng': 110.3782661}",-7.2241813,110.3782661
+Ekowisata Mangrove Wonorejo,Nature,Indonesia,Surabaya,0,0,4.3,"{'lat': -7.308648199999999, 'lng': 112.8216622}",-7.3086482,112.8216622
+Taman Harmoni Keputih,Nature,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.2952211, 'lng': 112.8035603}",-7.2952211,112.8035603
+Air Mancur Menari,Amusement Park,Indonesia,Surabaya,35000,10.85,4.4,"{'lat': -7.2356933, 'lng': 112.7955234}",-7.2356933,112.7955234
+Taman Prestasi,Amusement Park,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.2614722, 'lng': 112.7428284}",-7.2614722,112.7428284
+Monumen Kapal Selam,Culture,Indonesia,Surabaya,15000,4.65,4.4,"{'lat': -7.2654304, 'lng': 112.7503052}",-7.2654304,112.7503052
+Taman Kunang-Kunang,Amusement Park,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.318220199999999, 'lng': 112.7842405}",-7.3182202,112.7842405
+Taman Buah Surabaya,Amusement Park,Indonesia,Surabaya,0,0,4.1,"{'lat': -7.266213899999999, 'lng': 112.795281}",-7.2662139,112.795281
+Taman Pelangi,Amusement Park,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.3275604, 'lng': 112.7312242}",-7.3275604,112.7312242
+Hutan Bambu Keputih,Nature,Indonesia,Surabaya,0,0,4.3,"{'lat': -7.294190899999999, 'lng': 112.8017238}",-7.2941909,112.8017238
+Taman Keputran,Amusement Park,Indonesia,Surabaya,0,0,4.3,"{'lat': -7.2732153, 'lng': 112.744102}",-7.2732153,112.744102
+Food Junction Grand Pakuwon,Shopping,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.251022000000003, 'lng': 112.6620053}",-7.251022,112.6620053
+Taman Barunawati,Amusement Park,Indonesia,Surabaya,0,0,4.2,"{'lat': -7.222055899999998, 'lng': 112.7319967}",-7.2220559,112.7319967
+Kenjeran Park,Amusement Park,Indonesia,Surabaya,35000,10.85,4.2,"{'lat': -7.252296400000001, 'lng': 112.7966952}",-7.2522964,112.7966952
+Surabaya North Quay,Amusement Park,Indonesia,Surabaya,50000,15.5,4.4,"{'lat': -7.1968193, 'lng': 112.7324578}",-7.1968193,112.7324578
+Kebun Bibit Wonorejo,Nature,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.312365499999999, 'lng': 112.7889021}",-7.3123655,112.7889021
+Taman Ekspresi Dan Perpustakaan,Amusement Park,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.2573072, 'lng': 112.7437199}",-7.2573072,112.7437199
+Kebun Binatang Surabaya,Nature,Indonesia,Surabaya,15000,4.65,4.3,"{'lat': -7.295954599999999, 'lng': 112.7366094}",-7.2959546,112.7366094
+Rumah Batik,Culture,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.278735999999999, 'lng': 112.718453}",-7.278736,112.718453
+Ciputra Waterpark,Amusement Park,Indonesia,Surabaya,95000,29.45,4.3,"{'lat': -7.2861707, 'lng': 112.6333338}",-7.2861707,112.6333338
+Museum TNI AL Loka Jala Crana,Culture,Indonesia,Surabaya,2000,0.62,4.5,"{'lat': -7.227185, 'lng': 112.718997}",-7.227185,112.718997
+Jembatan Merah,Culture,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.2367447, 'lng': 112.7383009}",-7.2367447,112.7383009
+Museum De Javasche Bank,Culture,Indonesia,Surabaya,5000,1.55,4.6,"{'lat': -7.2353939, 'lng': 112.7367646}",-7.2353939,112.7367646
+Keraton Surabaya,Culture,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.256755299999998, 'lng': 112.7942203}",-7.2567553,112.7942203
+Klenteng Sanggar Agung,Culture,Indonesia,Surabaya,10000,3.1,4.5,"{'lat': -7.246944, 'lng': 112.802222}",-7.246944,112.802222
+Museum Sepuluh Nopember Kota Surabaya,Culture,Indonesia,Surabaya,5000,1.55,4.7,"{'lat': -7.245436900000001, 'lng': 112.7378985}",-7.2454369,112.7378985
+Monumen Tugu Pahlawan,Culture,Indonesia,Surabaya,0,0,4.7,"{'lat': -7.246925999999999, 'lng': 112.73781}",-7.246926,112.73781
+Surabaya Museum (Gedung Siola),Culture,Indonesia,Surabaya,0,0,4.5,"{'lat': -7.256297200000001, 'lng': 112.7379955}",-7.2562972,112.7379955
+Museum Kesehatan Dr. Adhyatma,Culture,Indonesia,Surabaya,10000,3.1,4.4,"{'lat': -7.240327999999999, 'lng': 112.731431}",-7.240328,112.731431
+Monumen Jalesveva Jayamahe,Culture,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.195474799999999, 'lng': 112.7395206}",-7.1954748,112.7395206
+Patung Sura dan Buaya,Culture,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.296049199999999, 'lng': 112.7387012}",-7.2960492,112.7387012
+Pantai Ria Kenjeran,Nature,Indonesia,Surabaya,15000,4.65,4.2,"{'lat': -7.250916399999999, 'lng': 112.8009332}",-7.2509164,112.8009332
+Waterpark Kenjeran Surabaya,Amusement Park,Indonesia,Surabaya,35000,10.85,4.1,"{'lat': -7.247796300000002, 'lng': 112.7998235}",-7.2477963,112.7998235
+Balai Kota Surabaya,Culture,Indonesia,Surabaya,0,0,4.7,"{'lat': -7.2592948, 'lng': 112.7470512}",-7.2592948,112.7470512
+Patung Buddha Empat Rupa,Culture,Indonesia,Surabaya,0,0,4.3,"{'lat': -7.2472841, 'lng': 112.8010814}",-7.2472841,112.8010814
+Monumen Bambu Runcing Surabaya,Culture,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.267775500000001, 'lng': 112.7443898}",-7.2677755,112.7443898
+House of Sampoerna,Culture,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.230817300000001, 'lng': 112.7342344}",-7.2308173,112.7342344
+Atlantis Land Surabaya,Amusement Park,Indonesia,Surabaya,125000,38.75,4.4,"{'lat': -7.2516189, 'lng': 112.8009694}",-7.2516189,112.8009694
+Taman Hiburan Rakyat,Amusement Park,Indonesia,Surabaya,5000,1.55,4.2,"{'lat': -7.252291, 'lng': 112.7520012}",-7.252291,112.7520012
+Taman Mundu,Amusement Park,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.251604599999999, 'lng': 112.7545983}",-7.2516046,112.7545983
+Museum Mpu Tantular,Culture,Indonesia,Surabaya,2000,0.62,4.4,"{'lat': -7.4338593, 'lng': 112.7199058}",-7.4338593,112.7199058
+Taman Bungkul,Amusement Park,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.291346799999999, 'lng': 112.7398218}",-7.2913468,112.7398218
+Taman Air Mancur Menari Kenjeran,Amusement Park,Indonesia,Surabaya,0,0,4.4,"{'lat': -7.2752955, 'lng': 112.7549381}",-7.2752955,112.7549381
+Taman Flora Bratang Surabaya,Amusement Park,Indonesia,Surabaya,0,0,4.6,"{'lat': -7.294330299999999, 'lng': 112.7617534}",-7.2943303,112.7617534
+Taman Kulimambang,Nature,Brunei,Tutong,0,0,,,4.908847,114.83515
+Wasai Bedanu,Nature,Brunei,Tutong,0,0,,,4.895126,114.841513
+Tutong River Cruise,Nature,Brunei,Tutong,0,150,,,4.868907,114.846225
+Penanjong Beach,Nature,Brunei,Tutong,0,0,,,4.847477,114.853249
+Tumpuan Telisai Recreational Park,Nature,Brunei,Tutong,0,11,,,4.834296,114.857209
+Sungai Basong Recreational Park,Nature,Brunei,Tutong,0,11,,,4.81581,114.863772
+Bukit Ambok,Nature,Brunei,Tutong,0,18,,,4.80924,114.866093
+Wasai Batu Mapan,Nature,Brunei,Tutong,0,0,,,4.798039,114.869282
+Pantai Seri Kenangan,Nature,Brunei,Tutong,0,11,,,4.787059,114.872497
+Kampong Bukit Beruang,Nature,Brunei,Tutong,,10,,,4.7302946,114.6133515
+Taman Buaya Sungai Tutong,Nature,Brunei,Tutong,,15,,,4.873683,114.849945
+Tamu Tutong Complex,Shopping,Brunei,Tutong,,500,,,4.705722,114.602178
+Pekan Tutong,Shopping,Brunei,Tutong,,400,,,4.713886,114.595947
+Petani Mall,Shopping,Brunei,Tutong,,300,,,4.711981,114.599389
+The Thursday Market,Shopping,Brunei,Tutong,,300,,,4.875732,114.848526
+Alai Gayoh Anak Pulau,Culture,Brunei,Tutong,,0,,,4.877418,114.848145
+Lamin Warisan,Culture,Brunei,Tutong,,0,,,4.873838,114.84906
+Jubilee Park,Nature,Brunei,Bandar Seri Begawan,,0,4.920228,114.924316,4.912062,114.936727
+Rimba Garden Central,Nature,Brunei,Bandar Seri Begawan,,52,4.913617,114.933533,4.92355,114.93333
+Damuan Recreational Park,Nature,Brunei,Bandar Seri Begawan,,14,4.915584,114.929871,4.926726,114.910388
+Jerudong Park Garden,Nature,Brunei,Bandar Seri Begawan,,0,4.908613,114.832077,4.908613,114.832077
+Hadfa Garden,Nature,Brunei,Bandar Seri Begawan,,0,4.889406,114.839783,4.915,114.9065
+Budiman Park,Nature,Brunei,Bandar Seri Begawan,,0,4.903398,114.833778,4.926044,114.927974
+Bukit Shahbandar Recreation Park,Nature,Brunei,Bandar Seri Begawan,,0,4.919628,114.925781,4.919628,114.925781
+Tasek Lama Recreational Park,Nature,Brunei,Bandar Seri Begawan,,0,4.91644,114.929565,4.91644,114.929565
+Tasek Sarubing Recreational Park,Nature,Brunei,Bandar Seri Begawan,,0,4.92002,114.92688,4.923727,114.91522
+Kampung Putat Herb Garden,Nature,Brunei,Bandar Seri Begawan,,0,4.919312,114.930664,4.93015,114.929999
+Katimahar Agri Park,Nature,Brunei,Bandar Seri Begawan,,0,4.943115,114.918579,4.91595,114.909297
+Agro Technology Park,Nature,Brunei,Bandar Seri Begawan,,0,4.954955,114.909851,4.90983,114.898703
+Brunei Bay Extravaganza,Nature,Brunei,Bandar Seri Begawan,,0,4.969238,114.882751,4.920578,114.930396
+Pantai Berakas,Nature,Brunei,Bandar Seri Begawan,,0,4.946533,114.914917,4.946533,114.914917
+Brunei River,Nature,Brunei,Bandar Seri Begawan,,0,4.944092,114.918213,4.922004,114.92608
+Royal Regalia Museum,Culture,Brunei,Bandar Seri Begawan,,24,,,4.92089,114.931015
+The Brunei Museum,Culture,Brunei,Bandar Seri Begawan,,18,,,4.91642,114.927246
+Jame'Asr Hassanil Bolkiah Mosque,Culture,Brunei,Bandar Seri Begawan,,0,,,4.920398,114.931458
+Istana Nurul Iman,Culture,Brunei,Bandar Seri Begawan,,0,,,4.918162,114.927856
+Kampong Ayer,Culture,Brunei,Bandar Seri Begawan,,0,,,4.8827,114.9443
+The Brunei Arts & Handicrafts Centre,Culture,Brunei,Bandar Seri Begawan,,0,,,4.920465,114.930237
+The Brunei History Centre,Culture,Brunei,Bandar Seri Begawan,,0,,,4.917922,114.928345
+The Sultan Omar Ali Saifuddien Mosque,Culture,Brunei,Bandar Seri Begawan,,0,,,4.918539,114.931641
+The Tamu Kianggeh,Shopping,Brunei,Bandar Seri Begawan,,200,,,4.917879,114.928589
+The Jerudong Night Safari,Amusement Park,Brunei,Bandar Seri Begawan,,105,,,4.911085,114.834351
+The Brunei Museum Archaeology Gallery,Culture,Brunei,Bandar Seri Begawan,,Free,,,4.91642,114.927246
+The Mall,Shopping,Brunei,Bandar Seri Begawan,,800,,,4.920578,114.930396
+The Gadong Night Market,Shopping,Brunei,Bandar Seri Begawan,,500,,,4.91861,114.929352
+Yayasan Sultan Haji Hassanal Bolkiah Complex,Shopping,Brunei,Bandar Seri Begawan,,500,,,4.8875,114.9408
+Times Square Shopping Centre,Shopping,Brunei,Bandar Seri Begawan,,800,,,4.9396,114.9398
+Mabohai Shopping Complex,Shopping,Brunei,Bandar Seri Begawan,,800,,,4.9085,114.9427
+Aman Hills Shopping Centre,Shopping,Brunei,Bandar Seri Begawan,,800,,,4.948,114.9679
+The OneCity,Shopping,Brunei,Bandar Seri Begawan,,700,,,4.921412,114.929443
+Jerudong Water Park,Amusement Park,Brunei,Bandar Seri Begawan,,70,,,4.928878,114.93504
+Bangar Town,Shopping,Brunei,Temburong,,700,,,4.892119,14.922614
+Belalong Canopy Walkway,Nature,Brunei,Temburong,,35,,,4.893533,114.921157
+Bukit Patoi Recreational Park,Nature,Brunei,Temburong,,0,,,4.916237,114.91082
+Freme Lodge & Adventure Park,Nature,Brunei,Temburong,,103,,,4.922825,114.932739
+Sumbiling Eco Village,Nature,Brunei,Temburong,,0,,,4.926573,114.918888
+Sungai Apan Waterfall,Nature,Brunei,Temburong,,0,,,4.930677,114.923517
+Taman Aie Tenab,Nature,Brunei,Temburong,,0,,,4.930652,114.922874
+Tamu Bangar,Shopping,Brunei,Temburong,,0,,,4.892033,114.922453
+Ulu Temburong National Park,Nature,Brunei,Temburong,,70,,,4.850861,114.934586
+Temburong River,Nature,Brunei,Temburong,,0,,,4.857623,115.181644
+Peliunan Park,Nature,Brunei,Temburong,,0,,,4.846379,115.161781
+Bangar Heritage Walking Trail,Culture,Brunei,Temburong,,0,,,4.833029,115.154614
+Desaru Coast Adventure Water Park,Amusement Park,Malaysia,Johor,,119,,,1.5380641,104.2629378
+Pulau Rawa,Nature,Malaysia,Johor,,180,,,2.520353,103.9715036
+Pulau Sibu,Nature,Malaysia,Johor,,150,,,2.214955,104.0531219
+Pantai Desaru,Nature,Malaysia,Johor,,5,,,1.5402777,104.250546
+Taman Negara Endau-Rompin,Nature,Malaysia,Johor,,30,,,2.471916,103.2663479
+Legoland Malaysia Resort,Amusement Park,Malaysia,Johor,,150,,,1.4273918,103.630269
+Kulim Eco Trail Retreat,Nature,Malaysia,Johor,,35,,,1.653948,103.927053
+Taman Negara Tanjung Piai,Culture,Malaysia,Johor,,30,,,1.2681099,103.50871
+Zoo Johor (Johor Safari Park),Amusement Park,Malaysia,Johor,,45,,,1.4575382,103.7521843
+Austin Heights Water & Adventure Park,Amusement Park,Malaysia,Johor,,99,,,1.5621093,103.7757203
+KUSO 3D Art Gallery,Culture,Malaysia,Johor,,25,,,1.550805,103.7851599
+Bazaar Johor (Bazaar Karat),Shopping,Malaysia,Johor,,100,,,1.4582234,103.7641308
+Johor Premium Outlet (JPO),Shopping,Malaysia,Johor,,500,,,1.6036577,103.6217117
+Nasuha Herbs & Spice Farm,Nature,Malaysia,Johor,,10,,,2.1286989,102.7043346
+Taman Buaya Teluk Sengat,Nature,Malaysia,Johor,,30,,,1.565062,104.0263751
+Air Terjun Kota Tinggi,Nature,Malaysia,Johor,,0,,,1.8288717,103.827508
+Kluang Coffee Powder Factory,Shopping,Malaysia,Johor,,0,,,2.0219969,103.324695
+Danga Bay,Shopping,Malaysia,Johor,,0,,,1.4774347,103.7237595
+Rock World,Amusement Park,Malaysia,Johor,,40,,,1.5795037,103.7290206
+LOST in JB Escape Room,Amusement Park,Malaysia,Johor,,35,,,1.56116,103.779331
+Desaru Ostrich Farm,Amusement Park,Malaysia,Johor,,20,,,1.3688686,104.2393249
+Angry Bird Activity Park,Amusement Park,Malaysia,Johor,,50,,,1.4629344,103.7635333
+Puteri Harbour Indoor Theme Park,Amusement Park,Malaysia,Johor,,95,,,1.4161576,103.6569392
+Hutan Bandar MBJB,Nature,Malaysia,Johor,,0,,,1.4826838,103.7446561
+Taman Negara Pulau Kukup,Nature,Malaysia,Johor,,10,,,1.3271947,103.4343101
+Nanyang Fish Farm,Nature,Malaysia,Johor,,10,,,1.6977975,103.4888219
+Laman Mahkota Istana Bukit Serene,Culture,Malaysia,Johor,,0,,,1.4804282,103.7226121
+Masjid Sultan Abu Bakar,Culture,Malaysia,Johor,,0,,,1.45718,103.7513017
+Taman Rekreasi Tanjung Emas,Nature,Malaysia,Johor,,0,,,2.0475785,102.5554697
+Taman Hutan Lagenda Gunung Ledang,Nature,Malaysia,Johor,,10,,,2.3416687,102.6172876
+Muzium Nelayan Tanjung Balau,Culture,Malaysia,Johor,,5,,,1.6148317,104.2578758
+Desaru Fruit Farm,Nature,Malaysia,Johor,,13,,,1.5839028,104.1935403
+Pantai Stulang Laut,Nature,Malaysia,Johor,,0,,,1.4691487,103.7788501
+Pantai Minyak Beku,Nature,Malaysia,Johor,,0,,,1.7950466,102.8879349
+Gunung Lambak,Nature,Malaysia,Johor,,3,,,2.0250108,103.3421733
+Hutan Lipur Gunung Pulai 2,Nature,Malaysia,Johor,,3,,,1.592261,103.5105938
+Pantai Air Papan,Nature,Malaysia,Johor,,0,,,2.5200953,103.828464
+Wet World Batu Pahat Village Resort,Amusement Park,Malaysia,Johor,,55,,,1.8816269,102.9453083
+Penggaram Square Batu Pahat,Shopping,Malaysia,Johor,,0,,,1.8476158,102.9348024
+Puteri Harbour Marina,Nature,Malaysia,Johor,,0,,,1.417128,103.658282
+Muzium Bugis Pontian,Culture,Malaysia,Johor,,2,,,1.4280325,103.4117978
+Muzium Kota Johor Lama,Culture,Malaysia,Johor,,5,,,1.5806519,104.0177695
+Muzium Layang-Layang Pasir Gudang,Culture,Malaysia,Johor,,3,,,1.4749938,103.9063984
+Muzium Tokoh Johor,Culture,Malaysia,Johor,,5,,,1.4723095,103.7654617
+Muzium Mersing,Culture,Malaysia,Johor,,0,,,2.4326646,103.8397028
+Taman Merdeka,Culture,Malaysia,Johor,,0,,,1.4794193,103.735906
+Kolam Air Panas Sungai Gersik,Nature,Malaysia,Johor,,25,,,1.940985,102.7422128
+Don Hu Jurassic Park Muar,Amusement Park,Malaysia,Johor,,40,,,2.0801512,102.567715
+Laser Battle Experience in Johor Bahru,Amusement Park,Malaysia,Johor,,35,,,1.462267,103.763438
+Gunung Lambak Waterpark,Amusement Park,Malaysia,Johor,,35,,,2.0259501,103.3445032
+ATV Park Johor,Amusement Park,Malaysia,Johor,,80,,,1.570525,103.6340862
+Kota Tinggi Firefly Park,Nature,Malaysia,Johor,,20,,,1.7268249,103.9112664
+UK Farm Agro Resort,Nature,Malaysia,Johor,,20,,,2.0181272,103.2187406
+Taman Laut Sultan Iskandar (TLSI),Nature,Malaysia,Johor,,20,,,2.4513424,104.1055583
+Galeri Darurat Bukit Kepong,Culture,Malaysia,Johor,,5,,,1.5392975,104.2599435
+Pineapple Museum,Nature,Malaysia,Johor,,10,,,1.5070309,103.4447695
+Pulau Pangkor,Nature,Malaysia,Perak,,2,,,4.211048,100.566611
+Sunway Lost World of Tambun,Amusement Park,Malaysia,Perak,,118,,,4.625032,101.154866
+Sungai Klah Hotspring,Nature,Malaysia,Perak,,20,,,3.997909,101.393726
+Masjid Diraja Ubudiah,Culture,Malaysia,Perak,,0,,,4.764247,100.951115
+Zoo Taiping dan Night Safari,Amusement Park,Malaysia,Perak,,53,,,4.854931,100.74968
+Taman Rekreasi Gunung Lang,Nature,Malaysia,Perak,,3,,,4.628811,101.091043
+Muzium Perak Taiping,Culture,Malaysia,Perak,,5,,,4.860952,100.745246
+Kellie's Castle,Culture,Malaysia,Perak,,25,,,4.474413,101.087744
+Sultan Azlan Shah Gallery,Culture,Malaysia,Perak,,0,,,4.766407,100.948163
+Bukit Merah Lake Town Resort,Amusement Park,Malaysia,Perak,,35,,,4.994729,100.66006
+Tasik Banding ,Nature,Malaysia,Perak,,30,,,5.545293,101.340114
+Pulau Orang Utan,Nature,Malaysia,Perak,,50,,,5.008696,100.67558
+Ladang Anggur Saloma,Nature,Malaysia,Perak,,25,,,4.150298,100.724553
+Teluk Senangin,Nature,Malaysia,Perak,,0,,,4.299562,100.579854
+Pantai Teluk Batik,Nature,Malaysia,Perak,,0,,,4.187555,100.607385
+Menara Condong Teluk Intan,Culture,Malaysia,Perak,,0,,,4.025124,101.019265
+Bukit Larut (Maxwell Hill),Nature,Malaysia,Perak,,5,,,4.861948,100.793072
+Taman Tasik Taiping,Nature,Malaysia,Perak,,0,,,4.852485,100.749508
+Kuala Sepetang,Nature,Malaysia,Perak,,0,,,4.83483,100.627754
+Muzium Geologi Ipoh,Culture,Malaysia,Perak,,5,,,4.597575,101.119787
+Gua Tempurung,Nature,Malaysia,Perak,,20,,,4.416052,101.187685
+Kledang Saiong Forest Eco Park,Nature,Malaysia,Perak,,10,,,4.683884,101.068489
+Lata Ulu Chepor,Nature,Malaysia,Perak,,5,,,4.700481,101.077273
+Pasar Karat Ipoh,Shopping,Malaysia,Perak,,0,,,4.596028,101.090061
+Muzium Arkeologi Lenggong,Culture,Malaysia,Perak,,20,,,5.054849,100.974057
+The Banjaran Hotsprings Retreat,Nature,Malaysia,Perak,,120,,,4.631085,101.156119
+Kek Long Tong Cave Temple,Nature,Malaysia,Perak,,10,,,4.558974,101.129372
+Tasik Cermin Gunung Rapat,Nature,Malaysia,Perak,,3,,,4.558863,101.120114
+Masjid Sultan Idris Shah II,Culture,Malaysia,Perak,,0,,,4.596431,101.075759
+Masjid Muhammadiyah Ipoh,Culture,Malaysia,Perak,,0,,,4.649564,101.107264
+Air Terjun Lata Iskandar,Nature,Malaysia,Perak,,0,,,4.324169,101.325643
+Bukit Kledang,Nature,Malaysia,Perak,,0,,,4.580432,101.025348
+Ladang Limau Tambun GOChin,Nature,Malaysia,Perak,,10,,,4.564755,101.113652
+Air Terjun Ulu Kenas,Nature,Malaysia,Perak,,5,,,4.686899,100.885694
+Air Terjun Lata Kinjang,Nature,Malaysia,Perak,,5,,,4.298829,101.25398
+Taman Eko Rimba Lata Kekabu,Nature,Malaysia,Perak,,2,,,5.050415,100.944805
+Riverside Camp Gopeng,Nature,Malaysia,Perak,,30,,,4.447799,101.198411
+Pusat Rekreasi Hotsprings Lubuk Timah,Amusement Park,Malaysia,Perak,,15,,,4.559721,101.161984
+Kubu Belanda,Culture,Malaysia,Perak,,0,,,4.200773,100.575989
+Lata Tebing Tinggi,Nature,Malaysia,Perak,,0,,,5.206165,100.78105
+Ulu River Lodge,Nature,Malaysia,Perak,,150,,,4.443945,101.198883
+Trong Hotspring,Nature,Malaysia,Perak,,20,,,4.752623,100.721087
+Ipoh Mural Art Trail,Culture,Malaysia,Perak,,0,,,4.595302,101.078567
+Spritzer Eco Park,Nature,Malaysia,Perak,,30,,,4.820832,100.75203
+Kompleks Sejarah Pasir Salak,Culture,Malaysia,Perak,,10,,,4.173473,100.94692
+Pusat Konservasi Penyu Segari,Nature,Malaysia,Perak,,5,,,4.363038,100.581382
+Victoria Bridge,Culture,Malaysia,Perak,,0,,,4.837678,100.963792
+Batu Caves,Culture,Malaysia,Selangor,,3,,,3.253582,101.669762
+Farm in the City,Amusement Park,Malaysia,Selangor,,35,,,3.083657,101.623811
+Kampung Kuantan Fireply Park,Nature,Malaysia,Selangor,,30,,,3.121226,101.645934
+FRIM,Nature,Malaysia,Selangor,,10,,,3.100524,101.680023
+Zoo Negara,Amusement Park,Malaysia,Selangor,,35,,,3.13168,101.681116
+Sky Mirror,Nature,Malaysia,Selangor,,10,,,3.0124,101.663564
+Broga Hill,Nature,Malaysia,Selangor,,5,,,2.8803,101.924472
+Pulau Ketam,Nature,Malaysia,Selangor,,5,,,3.216119,101.397068
+Templer Park,Nature,Malaysia,Selangor,,5,,,3.11388,101.628889
+The Secret Garden Utama,Nature,Malaysia,Selangor,,30,,,3.013611,101.668889
+Taman Botani Negara Shah Alam,Nature,Malaysia,Selangor,,10,,,3.076389,101.623611
+Kuala Selangor Nature Park,Nature,Malaysia,Selangor,,10,,,3.310278,101.3425
+Gunung Nuang,Nature,Malaysia,Selangor,,30,,,3.1325,101.908333
+Ramayana Cave,Culture,Malaysia,Selangor,,10,,,3.259444,101.770278
+Chiling Waterfall,Nature,Malaysia,Selangor,,5,,,3.148333,101.79
+Cyberjaya Lake Gardens,Nature,Malaysia,Selangor,,0,,,2.936944,101.666944
+Shah Alam Lake Garden,Nature,Malaysia,Selangor,,0,,,3.066667,101.616667
+Bagan Lalang Beach,Nature,Malaysia,Selangor,,0,,,3.033333,101.666667
+Saga Hill Trial,Nature,Malaysia,Selangor,,0,,,3.263552,101.656149
+Bukit Kutu,Nature,Malaysia,Selangor,,5,,,3.173453,101.627036
+Pantai Morib,Nature,Malaysia,Selangor,,0,,,3.320924,101.473238
+Pantai Remis,Nature,Malaysia,Selangor,,0,,,3.285764,101.522439
+Ayer Hitam Forest Reserve,Nature,Malaysia,Selangor,,10,,,3.355207,101.46363
+Sunway Pyramid,Shopping,Malaysia,Selangor,,300,,,3.076733,101.613467
+Sultan Salahuddin Abdul Aziz Shah Mosque,Culture,Malaysia,Selangor,,0,,,3.083981,101.624564
+Mitsui Outlet,Shopping,Malaysia,Selangor,,700,,,3.072648,101.614702
+Setia City Mall,Shopping,Malaysia,Selangor,,200,,,3.074947,101.623412
+Paradigm Mall,Shopping,Malaysia,Selangor,,200,,,3.076062,101.621977
+IOI Mall,Shopping,Malaysia,Selangor,,500,,,3.07633,101.623468
+I-City,Amusement Park,Malaysia,Selangor,,50,,,3.07722,101.622736
+Sunway Lagoon,Amusement Park,Malaysia,Selangor,,150,,,3.012807,101.66329
+The Mines,Shopping,Malaysia,Selangor,,200,,,3.051716,101.602703
+Tamarind Square,Shopping,Malaysia,Selangor,,200,,,3.038599,101.653953
+Bangi Wonderland,Amusement Park,Malaysia,Selangor,,138,,,3.112314,101.543276
+Kidzania,Amusement Park,Malaysia,Selangor,,168,,,3.06648,101.616312
+Wet World Water Park Shah Alam,Amusement Park,Malaysia,Selangor,,95,,,3.076276,101.623528
+Escape Petaling Jaya,Amusement Park,Malaysia,Selangor,,135,,,3.079354,101.624393
+Astaka Morocco,Culture,Malaysia,Selangor,,20,,,3.078046,101.624265
+Istana Shah Alam,Culture,Malaysia,Selangor,,0,,,3.083911,101.623915
+Muzium Sabak Bernam,Culture,Malaysia,Selangor,,3,,,3.20021,101.43722
+Kuan Yin Temple,Culture,Malaysia,Selangor,,0,,,3.036442,101.652343
+Muzium Orang Asli Gombak,Culture,Malaysia,Selangor,,5,,,3.113021,101.628768
+Muzium Automobil Nasional,Culture,Malaysia,Selangor,,30,,,3.087483,101.62125
+Hatter's Castle,Culture,Malaysia,Selangor,,15,,,3.074714,101.62408
+Pulau Carey,Culture,Malaysia,Selangor,,0,,,3.229304,101.370879
+Little India Kelang,Culture,Malaysia,Selangor,,0,,,3.118751,101.669376
+Bukit Melawati,Culture,Malaysia,Selangor,,5,,,3.068399,101.616636
+"Sri Shakti Temple, Bukit Rotan",Culture,Malaysia,Selangor,,0,,,3.07376,101.626271
+Pulau Perhentian,Nature,Malaysia,Terengganu,,35,,,5.27315,102.974298
+Turtle Sanctuary Becah,Nature,Malaysia,Terengganu,,0,,,5.239332,102.968682
+Tasik Kenyir,Nature,Malaysia,Terengganu,,15,,,4.94382,103.10656
+Long Beach,Nature,Malaysia,Terengganu,,0,,,5.281807,102.972751
+Pulau Kapas,Nature,Malaysia,Terengganu,,30,,,5.30301,102.988274
+Teluk Keke,Nature,Malaysia,Terengganu,,0,,,5.276654,102.97449
+Batu Buruk Beach,Nature,Malaysia,Terengganu,,0,,,5.349044,103.015302
+Sekayu Waterfall,Nature,Malaysia,Terengganu,,0,,,5.289528,103.019422
+Bukit Kluang Beach,Nature,Malaysia,Terengganu,,0,,,5.310908,102.98552
+Gemia Island,Nature,Malaysia,Terengganu,,0,,,5.190096,103.078064
+Teluk Kalong Beach,Nature,Malaysia,Terengganu,,0,,,5.289944,102.970654
+Pantai Teluk Bidara,Nature,Malaysia,Terengganu,,0,,,5.324968,103.006828
+Kemasik Beach,Nature,Malaysia,Terengganu,,0,,,5.36827,103.003015
+La Hot Springs,Nature,Malaysia,Terengganu,,40,,,5.220254,103.017634
+Coray Bay Teluk Aur,Nature,Malaysia,Terengganu,,0,,,5.250196,103.011509
+Air Terjun Chemerong,Nature,Malaysia,Terengganu,,0,,,4.960512,103.090417
+Kemaman Recreation Park and Mini Zoo,Nature,Malaysia,Terengganu,,2,,,5.364296,103.007742
+Masjid Kristal,Culture,Malaysia,Terengganu,,0,,,5.265093,102.978952
+Taman Tamadun Islam,Culture,Malaysia,Terengganu,,30,,,5.265565,102.980064
+Kota Lama Duyung,Culture,Malaysia,Terengganu,,0,,,5.197247,103.075204
+Terengganu State Museum,Culture,Malaysia,Terengganu,,0,,,5.265908,102.979028
+Masjid Sultan Zainal Abidin,Culture,Malaysia,Terengganu,,0,,,5.265902,102.97941
+Terengganu Inscription Stone,Culture,Malaysia,Terengganu,,0,,,5.265105,102.979108
+Ho Ann Kiong Temple,Culture,Malaysia,Terengganu,,0,,,5.257111,102.987246
+Tengku Tengah Zaharah Mosque,Culture,Malaysia,Terengganu,,0,,,5.26572,102.979003
+Pasar Payang,Shopping,Malaysia,Terengganu,,200,,,5.266681,102.980579
+Chinatown Terengganu,Culture,Malaysia,Terengganu,,0,,,5.267463,102.980802
+Turtle Sculture,Culture,Malaysia,Terengganu,,0,,,5.265729,102.979012
+Kuala Terengganu Drawbridge,Culture,Malaysia,Terengganu,,0,,,5.266197,102.980128
+Maziah Palace,Culture,Malaysia,Terengganu,,0,,,5.265271,102.979225
+Paya Bunga Square,Shopping,Malaysia,Terengganu,,200,,,5.267112,102.980686
+Uptown Kontena,Shopping,Malaysia,Terengganu,,200,,,5.266729,102.98059
+KTCC Mall,Shopping,Malaysia,Terengganu,,300,,,5.265756,102.97906
+Noor Arfa Craft Complex,Shopping,Malaysia,Terengganu,,300,,,5.272215,102.97583
+Bazaar Warisan Terengganu,Shopping,Malaysia,Terengganu,,300,,,5.266378,102.980123
+Genting Skyway,Nature,Malaysia,Pahang,,33,,,3.589785,101.721299
+Kuala Gandah Elephant Sanctuary,Nature,Malaysia,Pahang,,0,,,3.909715,101.974083
+Mossy Forest,Nature,Malaysia,Pahang,,3,,,4.03005,101.479847
+Chin Swee Cave Temple,Culture,Malaysia,Pahang,,0,,,3.55573,101.710794
+Taman Negara Natioanal Park Pahang,Nature,Malaysia,Pahang,,30,,,4.194511,101.784292
+Cameron Bharat Tea Estate,Nature,Malaysia,Pahang,,0,,,4.03627,101.478141
+Teluk Chempedak,Nature,Malaysia,Pahang,,0,,,3.506157,103.092403
+Genting Highland Premium Outlets,Shopping,Malaysia,Pahang,,500,,,3.589732,101.720381
+Big Red Strawberry Farm Cameron Highland,Nature,Malaysia,Pahang,,20,,,4.03505,101.477765
+Time Tunnel Museum,Culture,Malaysia,Pahang,,30,,,4.496888,101.39507
+Genting Highland Theme Park,Amusement Park,Malaysia,Pahang,,128,,,3.589732,101.720381
+Colmar Tropicale Berjaya Hill,Nature,Malaysia,Pahang,,35,,,3.5496,101.705994
+Fraser's Hill,Nature,Malaysia,Pahang,,0,,,3.540849,101.800421
+Tioman Island,Nature,Malaysia,Pahang,,30,,,3.224088,103.653915
+Masjid Negeri Pahang (Sultan Ahmad 1) Kuantan,Culture,Malaysia,Pahang,,0,,,3.893089,103.034857
+Sri Marathandavar Aalayam Maran,Culture,Malaysia,Pahang,,0,,,4.017097,103.05447
+Sungai Lembing,Culture,Malaysia,Pahang,,0,,,3.446467,103.173096
+Panching Caves,Culture,Malaysia,Pahang,,0,,,3.53684,101.814835
+Lake Chini,Culture,Malaysia,Pahang,,10,,,3.501074,101.895126
+Bukit Gambang Water Park,Amusement Park,Malaysia,Pahang,,30,,,3.99366,103.332304
+Kubang Gajah Waterpark,Amusement Park,Malaysia,Pahang,,15,,,4.118345,103.249939
+Adventure Park by Colmar Tropic,Amusement Park,Malaysia,Pahang,,50,,,3.5496,101.705994
+Bilut Extreme Park,Amusement Park,Malaysia,Pahang,,30,,,3.479337,103.289734
+Jengka Wonderlan,Amusement Park,Malaysia,Pahang,,20,,,3.42168,103.164261
+Taman Air DarulMakmur,Amusement Park,Malaysia,Pahang,,10,,,3.566106,103.361908
+Tc theme park Kuantan,Amusement Park,Malaysia,Pahang,,25,,,3.53129,103.359253
+First World Plaza,Shopping,Malaysia,Pahang,,300,,,3.589732,101.720381
+East Coast Mall,Shopping,Malaysia,Pahang,,300,,,3.591785,101.725861
+Kea Farm Market,Shopping,Malaysia,Pahang,,100,,,3.263552,101.656149
+Bentong Walk,Shopping,Malaysia,Pahang,,100,,,3.56179,102.950317
+Hasil Laut Kiah Kee,Shopping,Malaysia,Pahang,,100,,,3.53684,101.814835
+Kuantan Parade,Shopping,Malaysia,Pahang,,300,,,3.53002,103.359741
+Kuantan City Mall,Shopping,Malaysia,Pahang,,300,,,3.53099,103.359192
+Brinchang Night Market,Shopping,Malaysia,Pahang,,150,,,4.03005,101.479847
+Natural Batik Village Pahang,Culture,Malaysia,Pahang,,0,,,3.53888,103.358337
+Sepilok Orangutan Rehabilitation Centre,Nature,Malaysia,Sabah,,0,,,5.12049,118.32464
+Mount Kinabalu,Nature,Malaysia,Sabah,,50,,,5.088373,116.565765
+Labuk Bay Proboscis Money Sanctuary,Nature,Malaysia,Sabah,,0,,,5.239332,102.968682
+Manukan Island,Nature,Malaysia,Sabah,,15,,,5.078487,116.091667
+Borneon Sun Bear Conservation Centre,Nature,Malaysia,Sabah,,30,,,5.116611,116.123556
+Sapi Island,Nature,Malaysia,Sabah,,15,,,5.07975,116.0925
+Turtle Island Park,Nature,Malaysia,Sabah,,10,,,5.078611,116.0925
+Kinabalu Park,Nature,Malaysia,Sabah,,50,,,5.088373,116.565765
+Sipadan National Park,Nature,Malaysia,Sabah,,0,,,5.373778,117.625
+Rasa Ria Reserve by Shangri-La,Nature,Malaysia,Sabah,,130,,,5.103583,117.279889
+Tunku Abdul Rahman Marine Park,Nature,Malaysia,Sabah,,10,,,5.078333,116.093333
+Mamutik Island,Nature,Malaysia,Sabah,,15,,,5.078056,116.093333
+Poring Hot Springs,Nature,Malaysia,Sabah,,30,,,5.113611,116.1225
+Danum Valley Conservation Area,Nature,Malaysia,Sabah,,50,,,5.357231,117.496963
+Deramakot Forest Reserve,Nature,Malaysia,Sabah,,0,,,4.918694,117.515912
+Tanjung Aru Beach,Nature,Malaysia,Sabah,,0,,,5.085278,116.095
+Lok Kawi Wildlife Park,Nature,Malaysia,Sabah,,40,,,5.049167,116.109167
+Bohey Dulang Island,Nature,Malaysia,Sabah,,30,,,5.234167,117.572222
+Tawau Hills Park,Nature,Malaysia,Sabah,,0,,,5.030556,117.683333
+Sosodikon Hill,Nature,Malaysia,Sabah,,0,,,5.063333,117.696667
+Lanyakan Island,Nature,Malaysia,Sabah,,0,,,5.233333,117.575
+Weston Wetland Park,Nature,Malaysia,Sabah,,0,,,5.183333,117.273333
+Tambunan Rafflesia Reserve,Nature,Malaysia,Sabah,,0,,,5.266667,116.783333
+Tabin Widlife Reserve,Nature,Malaysia,Sabah,,50,,,5.357231,117.496963
+Marine Ecology Research Centre,Nature,Malaysia,Sabah,,0,,,5.075278,116.100833
+Kota Kinabalu Wetland Centre,Nature,Malaysia,Sabah,,0,,,5.085278,116.095
+Imago Shopping Mall,Shopping,Malaysia,Sabah,,200,,,5.06989,116.07205
+Gaya Street Sunday Market,Shopping,Malaysia,Sabah,,50,,,5.058891,116.09433
+Night Market Kota Kinabalu,Shopping,Malaysia,Sabah,,50,,,5.066667,116.091667
+Suria Sabah,Shopping,Malaysia,Sabah,,100,,,5.065556,116.095833
+Filipino Market,Shopping,Malaysia,Sabah,,50,,,5.060556,116.095278
+Centre Point Sabah,Shopping,Malaysia,Sabah,,200,,,5.064167,116.092778
+Kota Kinabalu City Waterfront,Shopping,Malaysia,Sabah,,100,,,5.070833,116.089167
+The Nabalu Market,Shopping,Malaysia,Sabah,,50,,,5.075,116.094167
+One Borneo Hypermall,Shopping,Malaysia,Sabah,,100,,,5.068333,116.085278
+Oceanus Waterfront Mall,Shopping,Malaysia,Sabah,,200,,,5.070556,116.085556
+Borneo Trading Post,Shopping,Malaysia,Sabah,,200,,,5.0725,116.082778
+Tuaran Sunday Market,Shopping,Malaysia,Sabah,,100,,,5.938542,116.16761
+Warisan Square,Shopping,Malaysia,Sabah,,100,,,5.076667,116.090278
+Handicraft Market,Shopping,Malaysia,Sabah,,100,,,5.068889,116.091111
+Tamu Market of Kota Belud,Shopping,Malaysia,Sabah,,50,,,6.0425,116.244444
+Asquare Container Night Market,Shopping,Malaysia,Sabah,,50,,,5.075278,116.088889
+Murut Cultural Center,Shopping,Malaysia,Sabah,,50,,,5.978889,116.199444
+Pasar Besar Kota Kinabalu,Shopping,Malaysia,Sabah,,50,,,5.067222,116.088333
+Jesselton Duty Free,Shopping,Malaysia,Sabah,,300,,,5.073611,116.091944
+Sabah State Museum,Culture,Malaysia,Sabah,,0,,,5.0725,116.082778
+Mari Mari Cultural Village,Culture,Malaysia,Sabah,,35,,,5.076667,116.090278
+Masjid Bandaraya Kota Kinabalu,Culture,Malaysia,Sabah,,0,,,5.078889,116.087222
+Sabah State Mosque,Culture,Malaysia,Sabah,,0,,,5.081667,116.086111
+Atkinson Clock Tower,Culture,Malaysia,Sabah,,0,,,5.0775,116.091667
+Sabah Art Gallery,Culture,Malaysia,Sabah,,0,,,5.073611,116.091944
+Kota Kinabalu City Mosque,Culture,Malaysia,Sabah,,0,,,5.0775,116.088333
+Monsopiad Heritage Village,Culture,Malaysia,Sabah,,30,,,5.028056,116.178056
+Pillars of Sabah,Culture,Malaysia,Sabah,,0,,,5.075,116.094167
+Agnes Keith House,Culture,Malaysia,Sabah,,0,,,5.066667,116.091667
+St. Michael's and All Angels Church,Culture,Malaysia,Sabah,,0,,,5.073333,116.091667
+Sandakan Heritage Trail,Culture,Malaysia,Sabah,,0,,,5.9375,116.160833
+Sandakan Memorial Park,Culture,Malaysia,Sabah,,0,,,5.935,116.160833
+De Borneo Waterpark,Amusement Park,Malaysia,Sabah,,60,,,5.966849,116.223251
+Taman Bandukan Riverside Resort,Amusement Park,Malaysia,Sabah,,20,,,5.975278,116.214444
+Fun Splash,Amusement Park,Malaysia,Sabah,,35,,,5.953611,116.2225
+JSK Borneo Reef,Amusement Park,Malaysia,Sabah,,100,,,5.948889,116.230278
+Jurassic Land Kiulu,Amusement Park,Malaysia,Sabah,,50,,,5.938056,116.230556
+Semenggoh Nature Reserve,Nature,Malaysia,Sarawak,,0,,,1.220278,110.352778
+Bako National Park,Nature,Malaysia,Sarawak,,20,,,1.171944,110.358056
+Mulu World Heritage Area,Nature,Malaysia,Sarawak,,50,,,4.305556,113.833889
+Niah Caves,Nature,Malaysia,Sarawak,,30,,,2.8803,113.019422
+Fairy Caves,Nature,Malaysia,Sarawak,,0,,,1.156667,110.355556
+Kubah National Park,Nature,Malaysia,Sarawak,,10,,,1.236667,110.347222
+Deer Cave,Nature,Malaysia,Sarawak,,20,,,1.165556,110.357222
+Mount Santubong,Nature,Malaysia,Sarawak,,0,,,1.230556,110.375556
+The Pinnacles Trail,Nature,Malaysia,Sarawak,,50,,,1.219444,110.353611
+Mulu Caves,Nature,Malaysia,Sarawak,,50,,,4.305556,113.833889
+Sarawak Orchid Garden,Nature,Malaysia,Sarawak,,10,,,1.548333,110.341111
+Clearwater/Wind Show Caves,Nature,Malaysia,Sarawak,,0,,,1.160556,110.356667
+The Great Orangutan Project,Nature,Malaysia,Sarawak,,0,,,1.227778,110.352222
+Kuching Wetlands National Park,Nature,Malaysia,Sarawak,,0,,,1.533056,110.338611
+Lambir Hills National Park,Nature,Malaysia,Sarawak,,10,,,1.143056,110.396667
+Batang Ai National Park,Nature,Malaysia,Sarawak,,0,,,2.204167,112.845833
+Niah National Park,Nature,Malaysia,Sarawak,,30,,,2.8803,113.019422
+Gunung Gading National Park,Nature,Malaysia,Sarawak,,10,,,1.339167,111.007222
+Jong's Crocodile Farm & Zoo,Nature,Malaysia,Sarawak,,25,,,1.25,110.346667
+Matang Wildlife Centre,Nature,Malaysia,Sarawak,,15,,,1.155,110.353333
+Penan Peace Park Long Kerong,Nature,Malaysia,Sarawak,,0,,,4.244444,114.747222
+Tusan Beach,Nature,Malaysia,Sarawak,,0,,,1.223056,110.351667
+Satok Weekend Market,Shopping,Malaysia,Sarawak,,50,,,2.057833,111.889722
+The Spring Shopping Mall,Shopping,Malaysia,Sarawak,,100,,,2.017222,111.854722
+Vivacity Megamall,Shopping,Malaysia,Sarawak,,100,,,2.004167,111.836667
+Sibu Night Market,Shopping,Malaysia,Sarawak,,50,,,2.040833,111.881389
+Johns Gallery,Shopping,Malaysia,Sarawak,,100,,,2.003333,111.835
+CityOne Megamall,Shopping,Malaysia,Sarawak,,100,,,2.013889,111.842778
+Boulevard Shopping Mall,Shopping,Malaysia,Sarawak,,100,,,2.025556,111.845556
+Times Square Megamall,Shopping,Malaysia,Sarawak,,100,,,2.013611,111.841944
+Park City Mall,Shopping,Malaysia,Sarawak,,100,,,2.031667,111.850556
+Star Mega Mall,Shopping,Malaysia,Sarawak,,100,,,2.001944,111.836667
+Stutong Community Market,Shopping,Malaysia,Sarawak,,50,,,1.981667,111.892222
+Siniawan Night Market,Shopping,Malaysia,Sarawak,,50,,,1.783056,111.821667
+Sibu Central Market,Shopping,Malaysia,Sarawak,,50,,,2.035556,111.863889
+Plaza Merdeka,Shopping,Malaysia,Sarawak,,50,,,2.007222,111.832778
+Pasar Serikin,Shopping,Malaysia,Sarawak,,50,,,1.429167,111.115
+Sarawak Cultural Village,Culture,Malaysia,Sarawak,,60,,,1.543184,110.337908
+Sarawak Museum,Culture,Malaysia,Sarawak,,0,,,1.521309,110.344727
+The Astana,Culture,Malaysia,Sarawak,,0,,,1.52028,110.346204
+Cat Museum,Culture,Malaysia,Sarawak,,15,,,1.531318,110.339456
+Tua Pek Kong Temple,Culture,Malaysia,Sarawak,,0,,,1.52409,110.345469
+Fort Margherita,Culture,Malaysia,Sarawak,,0,,,1.52542,110.346237
+Chinatown,Culture,Malaysia,Sarawak,,0,,,1.542256,110.339661
+Yu Lung San Tian En Temple,Culture,Malaysia,Sarawak,,0,,,1.53875,110.343611
+Borneo Samariang Resort City,Amusement Park,Malaysia,Sarawak,,30,,,1.278874,110.35144
+Stampark Place,Amusement Park,Malaysia,Sarawak,,8,,,1.253755,110.38002
+FunFactor,Amusement Park,Malaysia,Sarawak,,50,,,1.264676,110.347946
+"D-Virtual Park, Kota Samarahan",Amusement Park,Malaysia,Sarawak,,25,,,1.251785,110.384888
+Siburan Jump Trampoline Park,Amusement Park,Malaysia,Sarawak,,30,,,1.286492,110.344482
+QQ Amusement Park,Amusement Park,Malaysia,Sarawak,,60,,,1.199569,110.423584
+Chinese Garden,Nature,Singapore,Jurong East,,0,,,1.352878,103.717916
+Jurong Bird Park,Nature,Singapore,Jurong East,,105,,,1.348889,103.717778
+Jurong Eco Garden,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Lakeside Garden,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Lianhua Bird Park,Nature,Singapore,Jurong East,,86,,,1.36,103.722222
+Mandai Lake Gardens,Nature,Singapore,Jurong East,,0,,,1.355556,103.722222
+Pandan Reservoir Park,Nature,Singapore,Jurong East,,0,,,1.370556,103.727778
+Plantation Park,Nature,Singapore,Jurong East,,0,,,1.3525,103.7175
+Sembawang Hot Spring Park,Nature,Singapore,Jurong East,,0,,,1.386111,103.739444
+Singapore Botanic Gardens,Nature,Singapore,Jurong East,,52,,,1.313889,103.833889
+Tengah Park,Nature,Singapore,Jurong East,,0,,,1.366111,103.713889
+Toh Tuck Bird Park,Nature,Singapore,Jurong East,,86,,,1.358889,103.718889
+Upper Jurong Park,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Waterway Park,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Western Water Catchment,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Yew Tee Open Field,Nature,Singapore,Jurong East,,0,,,1.360556,103.733889
+Hong Kah North Park Connector,Nature,Singapore,Jurong East,,0,,,1.3575,103.8
+Jurong West Park Connector,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Jurong East Park Connector,Nature,Singapore,Jurong East,,0,,,1.352889,103.713056
+Jurong Island Park Connector,Nature,Singapore,Jurong East,,0,,,1.338889,103.766111
+JEM,Shopping,Singapore,Jurong East,,1000,,,1.348388,103.728997
+Westgate,Shopping,Singapore,Jurong East,,800,,,1.344548,103.732359
+IMM Building,Shopping,Singapore,Jurong East,,3000,,,1.350923,103.728271
+Jurong Point,Shopping,Singapore,Jurong East,,500,,,1.346314,103.732837
+Big Box Jurong,Shopping,Singapore,Jurong East,,500,,,1.343014,103.733376
+Causeway Point,Shopping,Singapore,Jurong East,,500,,,1.339693,103.734366
+The Venue@Jurong East,Shopping,Singapore,Jurong East,,500,,,1.34668,103.726955
+Jurong Gateway 8,Shopping,Singapore,Jurong East,,500,,,1.345886,103.733622
+Jurong East Central 1,Shopping,Singapore,Jurong East,,500,,,1.347928,103.72984
+Jurong East Swimming Complex,Amusement Park,Singapore,Jurong East,,8,,,1.352868,103.726759
+Gardens by the Bay,Nature,Singapore,Marina Bay,,0,,,1.282139,103.851343
+Marina Barrage,Nature,Singapore,Marina Bay,,0,,,1.29065,103.855781
+Singapore River,Nature,Singapore,Marina Bay,,0,,,1.283065,103.857256
+Fort Canning Park,Nature,Singapore,Marina Bay,,0,,,1.287134,103.852873
+Marina Bay Park,Nature,Singapore,Marina Bay,,0,,,1.283107,103.85688
+Kallang Park,Nature,Singapore,Marina Bay,,0,,,1.303095,103.856506
+East Coast Park,Nature,Singapore,Marina Bay,,0,,,1.305525,103.920605
+Gardens by the Bay East,Nature,Singapore,Marina Bay,,0,,,1.277506,103.852038
+Singapore Botanic Gardens,Nature,Singapore,Marina Bay,,0,,,1.304127,103.848703
+HortPark,Nature,Singapore,Marina Bay,,0,,,1.330457,103.849415
+Chinese Garden,Nature,Singapore,Marina Bay,,18,,,1.353333,103.727778
+Japanese Garden,Nature,Singapore,Marina Bay,,18,,,1.352222,103.725556
+Emerald Hill Park,Nature,Singapore,Marina Bay,,0,,,1.291012,103.867485
+Telok Ayer Park,Nature,Singapore,Marina Bay,,0,,,1.285767,103.847984
+Anderson Bridge,Nature,Singapore,Marina Bay,,0,,,1.290915,103.855423
+Cavanagh Bridge,Nature,Singapore,Marina Bay,,0,,,1.289054,103.856267
+Esplanade Bridge,Nature,Singapore,Marina Bay,,0,,,1.286318,103.856285
+Benjamin Sheares Bridge,Nature,Singapore,Marina Bay,,0,,,1.288781,103.857126
+The Cathay,Shopping,Singapore,Marina Bay,,200,,,1.285777,103.854491
+Chinatown Point,Shopping,Singapore,Marina Bay,,200,,,1.285844,103.851756
+Lucky Plaza,Shopping,Singapore,Marina Bay,,500,,,1.295875,103.850024
+Marina Bay Shoppes,Shopping,Singapore,Marina Bay,,500,,,1.282139,103.851343
+The Shoppes at Marina Bay Sands,Shopping,Singapore,Marina Bay,,500,,,1.285228,103.853957
+Suntec City Mall,Shopping,Singapore,Marina Bay,,500,,,1.290853,103.852529
+Paragon,Shopping,Singapore,Marina Bay,,500,,,1.289167,103.848667
+ION Orchard,Shopping,Singapore,Marina Bay,,500,,,1.288889,103.849167
+Takashimaya Singapore,Shopping,Singapore,Marina Bay,,600,,,1.288889,103.849167
+Chinatown Complex,Shopping,Singapore,Marina Bay,,200,,,1.290556,103.854167
+Maxwell Food Centre,Shopping,Singapore,Marina Bay,,200,,,1.288056,103.853611
+Telok Ayer Market,Shopping,Singapore,Marina Bay,,200,,,1.286111,103.847778
+Amoy Street Food Centre,Shopping,Singapore,Marina Bay,,200,,,1.287222,103.848056
+Lau Pa Sat,Shopping,Singapore,Marina Bay,,200,,,1.286667,103.853333
+Haji Lane,Shopping,Singapore,Marina Bay,,200,,,1.286667,103.851667
+Bugis Street,Shopping,Singapore,Marina Bay,,200,,,1.289167,103.850833
+Orchard Road,Shopping,Singapore,Marina Bay,,200,,,1.288889,103.849167
+Little India Arcade,Shopping,Singapore,Marina Bay,,200,,,1.3025,103.859167
+Tekka Centre,Shopping,Singapore,Marina Bay,,200,,,1.3025,103.859167
+Newton Food Centre,Shopping,Singapore,Marina Bay,,200,,,1.311111,103.825556
+Holland Village Market and Food Centre,Shopping,Singapore,Marina Bay,,200,,,1.308889,103.834167
+Changi Village Hawker Centre,Shopping,Singapore,Marina Bay,,200,,,1.350833,103.964167
+ArtScience Museum,Culture,Singapore,Marina Bay,,0,,,1.288958,103.856808
+Singapore Flyer,Culture,Singapore,Marina Bay,,115,,,1.284403,103.858742
+Chinatown,Culture,Singapore,Marina Bay,,0,,,1.289528,103.854158
+Little India,Culture,Singapore,Marina Bay,,0,,,1.297387,103.857025
+Kampong Glam,Culture,Singapore,Marina Bay,,0,,,1.288576,103.853899
+Clarke Quay,Culture,Singapore,Marina Bay,,0,,,1.284811,103.854946
+The Esplanade - Theatres on the Bay,Culture,Singapore,Marina Bay,,0,,,1.286318,103.856285
+National Gallery Singapore,Culture,Singapore,Marina Bay,,0,,,1.289181,103.857403
+Asian Civilisations Museum,Culture,Singapore,Marina Bay,,0,,,1.290489,103.856885
+National Museum of Singapore,Culture,Singapore,Marina Bay,,0,,,1.289636,103.857495
+Singapore Philatelic Museum,Culture,Singapore,Marina Bay,,0,,,1.289548,103.857147
+Singapore Art Museum,Culture,Singapore,Marina Bay,,0,,,1.289201,103.857373
+Tempo Museum,Culture,Singapore,Marina Bay,,0,,,1.290488,103.857242
+ Peranakan Museum,Culture,Singapore,Marina Bay,,0,,,1.289167,103.857389
+Maritime Experiential Museum,Culture,Singapore,Marina Bay,,83,,,1.290207,103.856487
+Madame Tussauds Singapore,Culture,Singapore,Sentosa,,175,,,1.289087,103.856714
+S.E.A Aquarium,Amusement Park,Singapore,Sentosa,,135,,,1.261747,103.833065
+Madame Tussauds Singapore,Amusement Park,Singapore,Sentosa,,187,,,1.261986,103.832915
+Trick Eye Museum Singapore,Amusement Park,Singapore,Sentosa,,120,,,1.262179,103.832872
+Songs of the Sea,Amusement Park,Singapore,Sentosa,,0,,,1.262042,103.832968
+Dolphin Island,Amusement Park,Singapore,Sentosa,,134,,,1.262022,103.832884
+Skyline Luge Sentosa,Amusement Park,Singapore,Sentosa,,96,,,1.262084,103.832854
+Wings of Time,Amusement Park,Singapore,Sentosa,,117,,,1.262018,103.832889
+Sentosa 4D Adventureland,Amusement Park,Singapore,Sentosa,,120,,,1.262058,103.832866
+Images of Singapore,Nature,Singapore,Sentosa,,0,,,1.26924,103.831608
+Sentosa Musical Fountain,Nature,Singapore,Sentosa,,0,,,1.262025,103.832902
+Sentosa Nature Discovery,Nature,Singapore,Sentosa,,0,,,1.262119,103.832882
+Sentosa Boardwalk,Nature,Singapore,Sentosa,,0,,,1.284303,103.837414
+Sentosa Sensory Garden,Nature,Singapore,Sentosa,,0,,,1.28367,103.837035
+Siloso Beach,Nature,Singapore,Sentosa,,0,,,1.289194,103.836682
+Tanjong Beach,Nature,Singapore,Sentosa,,0,,,1.288766,103.837387
+Palawan Beach,Nature,Singapore,Sentosa,,0,,,1.287751,103.838956
+Fort Siloso,Culture,Singapore,Sentosa,,0,,,1.291733,103.83861
+Sentosa Merlion,Nature,Singapore,Sentosa,,0,,,1.289471,103.836211
+Dragon's Teeth Cliffs,Nature,Singapore,Sentosa,,0,,,1.288885,103.840247
+Sentosa Eco-Trail,Nature,Singapore,Sentosa,,0,,,1.286792,103.839002
+Kingfisher Trail,Nature,Singapore,Sentosa,,0,,,1.287725,103.839328
+Horror Nights,Amusement Park,Singapore,Sentosa,,270,,,1.288419,103.836344
+Resorts World Sentosa,Amusement Park,Singapore,Sentosa,,0,,,1.288107,103.839426
+Universal Studios Singapore,Amusement Park,Singapore,Sentosa,,478,,,1.28835,103.838326
+Mega Adventure Park,Amusement Park,Singapore,Sentosa,,168,,,1.28845,103.840624
+iFly Singapore,Amusement Park,Singapore,Sentosa,,168,,,1.288416,103.841506
+Sentosa Cable Car,Nature,Singapore,Sentosa,,86,,,1.288426,103.838663
+Sentosa Market & Food Village,Shopping,Singapore,Sentosa,,300,,,1.288373,103.848215
+VivoCity,Shopping,Singapore,Sentosa,,500,,,1.281904,103.848087
+Sungei Wang Plaza,Shopping,Singapore,Sentosa,,500,,,1.295522,103.852457
+Sentosa Boardwalk,Nature,Singapore,Sentosa,,0,,,1.288799,103.848189
+Ulu yam,Nature,Malaysia,Batu Caves,0,5,3.4250,101.6597
+Ulu yam,Nature,Malaysia,Selangor,0,5,6.1253,2.3456
+Sandakan,Shopping,Malaysia,Sabah,3000,2,32,23
